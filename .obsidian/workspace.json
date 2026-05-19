@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Slovenščina/Obdobja/Antika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Antika"
             }
           },
           {
@@ -163,11 +164,13 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2f3b050f03f359",
+  "active": "77697dc81f3a58e7",
   "lastOpenFiles": [
     "Slovenščina/Obdobja/Antika.md",
     "Slovenščina/Dela",
