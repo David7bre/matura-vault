@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8081ae2e2de6bf83",
+            "id": "9e1615b72aa22b9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prilika o izgubljenem sinu"
             }
           }
         ]
@@ -180,13 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8081ae2e2de6bf83",
+  "active": "9e1615b72aa22b9f",
   "lastOpenFiles": [
-    "Slovenščina/Dela/Vojakovo domotožje.md",
     "Slovenščina/Dela/Biblija.md",
-    "Slovenščina/Avtorji/Konfucij.md",
-    "conflict-files-obsidian-git.md",
+    "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
+    "Slovenščina/Dela/Vojakovo domotožje.md",
     "Slovenščina/Obdobja/Orientalske književnosti.md",
+    "Slovenščina/Avtorji/Konfucij.md",
+    "Slovenščina/Dela/Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Slovenščina/Obdobja/Antika.md",
     "README.md",
     "Slovenščina/Dela",
