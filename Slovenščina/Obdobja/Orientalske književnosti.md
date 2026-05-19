@@ -22,9 +22,7 @@
 ### Hebrejska književnost
 *1000 pr. nš. št.*
 - Religija: Judovska in krščanska (Judi odobravajo le staro zavezo - Tora)
-- Sveta knjiga: Biblija (knjiga knjig, 1000 pr. nš. št. - 40)
-- Vrhunec:
-	- 
+- Sveta knjiga: [[Biblija]] (knjiga knjig, 1000 pr. nš. št. - 40)
 
 ### Perzijska književnost
 *2000 pr. nš. št., današnji Irak/Iran*
@@ -68,3 +66,6 @@
 - Sveta knjiga: Koran
 - Vrhunec:
 	- 1001 noč (zbirka pravljic)
+
+
+
