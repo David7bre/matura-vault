@@ -10,12 +10,15 @@
 - Vrhunec:
 	- Pesem nosačev žita (najstarejša pesem)
 	- Himna sončnemu božanstvu
+- Pisava: Hieroglifi
 ### Asirska in babilonska književnost
 *Stara malo manj kot egipčanska, na območju Mezopotamije*
-- Religija: 
-- Sveta knjiga:
+- Religija: Asirsko-babilonska religija (politeizem)
+- Sveta knjiga: --
 - Vrhunec:
-	- 
+	- Ep o Gilgamešu (umetnostno)
+	- Hamurabijev zakonik (neumetnostno)
+- Pisava: Klinopis
 
 ### Hebrejska književnost
 **
