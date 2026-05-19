@@ -19,7 +19,6 @@
 	- Ep o Gilgamešu (umetnostno)
 	- Hamurabijev zakonik (neumetnostno)
 - Pisava: Klinopis
-
 ### Hebrejska književnost
 **
 - Religija: 
