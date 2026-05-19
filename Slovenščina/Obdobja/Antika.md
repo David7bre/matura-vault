@@ -1,1 +1,16 @@
-David je legenda  
+---
+
+---
+---
+---
+
+David
+# David
+## David
+
+#david
+
+[[david]]
+
+*david*
+
