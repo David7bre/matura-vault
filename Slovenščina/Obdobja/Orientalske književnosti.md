@@ -37,10 +37,11 @@
 	
 ### Indijska književnosti
 *1500 pr. nš. št., Indija*
-- Religija: 
+- Religija: Hinduizem (politeistična, Višlu najpomembnejši)
 - Sveta knjiga: Vede
 - Vrhunec:
-	- 
+	- Mahabharata (najdaljši ep na svetu)
+	- Ramajana
 
 ### Kitajska književnost 
 **
