@@ -37,25 +37,28 @@
 	
 ### Indijska književnosti
 *1500 pr. nš. št., Indija*
-- Religija: Hinduizem (politeistična, Višlu najpomembnejši)
-- Sveta knjiga: Vede
+- Religija: Hinduizem (politeistična, Višnu najpomembnejši)
+- Sveta knjiga: Vede (osnova hinduizmu)
 - Vrhunec:
 	- Mahabharata (najdaljši ep na svetu)
 	- Ramajana
 
 ### Kitajska književnost 
-**
-- Religija: 
-- Sveta knjiga:
-- Vrhunec:
-	- 
+*1000 pr. nš. št., Kitajska*
+- Sistem mišljenja: Konfucianstvo (ni religija, bolj način življenja)
+	- Najpomembnejša knjiga: Šiking (knjiga pesmi, napisal Konfucij?, okoli 300)
+- taodizem, budizem
+	- Sidharta postal razvetljen - preimenoval se v Buda (NI BOG)
+- Najbolj znan pesnik - Li Taj-po
 
 ### Japonska književnost
-**
-- Religija: 
-- Sveta knjiga:
+*7. stol*
+- Religija: budizem (zen budizem)
+- Sveta knjiga: --
 - Vrhunec:
-	- 
+	- Macubašo (Haiku)
+		- 1 kitica, 3 verzi, 5 + 7 + 5 zlogov
+		- 
 
 ### Arabska književnost
 **
