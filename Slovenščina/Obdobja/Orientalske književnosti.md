@@ -31,14 +31,14 @@
 - Religija: Perzijska religija 
 - Sveta knjiga: Avesta (utemeljitelj Zaratustra)
 - Vrhunec:
-	- Šahname (narodni ep)
+	- Šahname (narodni ep, Firduzi)
 	- Hatis (pisal gazele)
 	- Omar Hajan (pisal rubajate - 4 vrstičnice, perzijski koledar)
 	
 ### Indijska književnosti
-**
+*1500 pr. nš. št., Indija*
 - Religija: 
-- Sveta knjiga:
+- Sveta knjiga: Vede
 - Vrhunec:
 	- 
 
