@@ -35,8 +35,7 @@
               "title": "Biblija"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slovenščina/Dela/Biblija.md",
+                "file": "Slovenščina/Obdobja/Orientalske književnosti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Biblija"
+              "title": "Backlinks for Orientalske književnosti"
             }
           },
           {
@@ -170,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slovenščina/Dela/Biblija.md",
+                "file": "Slovenščina/Obdobja/Orientalske književnosti.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Biblija"
+              "title": "Outline of Orientalske književnosti"
             }
           },
           {
@@ -209,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e63ff8a1f1a781ca",
+  "active": "b66eb06324371e7d",
   "lastOpenFiles": [
-    "Slovenščina/Obdobja/Orientalske književnosti.md",
     "Slovenščina/Dela/Biblija.md",
+    "Slovenščina/Obdobja/Orientalske književnosti.md",
     "README.md",
     "Slovenščina/Dela/Vojakovo domotožje.md",
     "Slovenščina/Avtorji/Konfucij.md",
