@@ -1,1 +1,1 @@
-luka je legenda  
+David je legenda  
