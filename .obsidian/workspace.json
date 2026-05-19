@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slovenščina/Obdobja/Orientalske književnosti.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orientalske književnosti"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slovenščina/Obdobja/Orientalske književnosti.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Orientalske književnosti"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slovenščina/Obdobja/Orientalske književnosti.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Orientalske književnosti"
+              "title": "Outline of README"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "4a80d8fa75894177",
   "lastOpenFiles": [
-    "README.md",
     "Slovenščina/Obdobja/Orientalske književnosti.md",
+    "README.md",
     "README 1.md",
     "Slovenščina/Dela",
     "Slovenščina/Avtorji",
