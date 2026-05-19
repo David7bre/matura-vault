@@ -121,11 +121,7 @@ Izberi `origin`, nato izberi branch (npr. `ana`). To ustvari lokalni branch in t
 
 ```
 📁 matura-vault/
-├── 📁 matematika/
 ├── 📁 slovenščina/
-├── 📁 angleščina/
-├── 📁 fizika/
-├── 📁 kemija/
 ├── ... (dodaj po potrebi)
 └── README.md  ← ta datoteka
 ```
