@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Slovenščina/Obdobja/Orientalske književnosti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Orientalske književnosti"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "bb0b3c118958007a",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Slovenščina/Obdobja/Orientalske književnosti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Orientalske književnosti"
             }
           },
           {
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Slovenščina/Obdobja/Orientalske književnosti.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Orientalske književnosti"
             }
           },
           {
@@ -196,8 +197,8 @@
   },
   "active": "4a80d8fa75894177",
   "lastOpenFiles": [
-    "Slovenščina/Obdobja/Orientalske književnosti.md",
     "README.md",
+    "Slovenščina/Obdobja/Orientalske književnosti.md",
     "README 1.md",
     "Slovenščina/Dela",
     "Slovenščina/Avtorji",
