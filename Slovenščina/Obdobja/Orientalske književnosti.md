@@ -20,9 +20,9 @@
 	- Hamurabijev zakonik (neumetnostno)
 - Pisava: Klinopis
 ### Hebrejska književnost
-**
-- Religija: 
-- Sveta knjiga:
+*1000 pr. nš. št.*
+- Religija: Judovska in krščanska (Judi odobravajo le staro zavezo - Tora)
+- Sveta knjiga: Biblija (knjiga knjig, 1000 pr. nš. št. - 40)
 - Vrhunec:
 	- 
 
@@ -49,20 +49,22 @@
 	- Najpomembnejša knjiga: Šiking (knjiga pesmi, napisal Konfucij?, okoli 300)
 - taodizem, budizem
 	- Sidharta postal razvetljen - preimenoval se v Buda (NI BOG)
-- Najbolj znan pesnik - Li Taj-po
+- Vrhunec:
+	- Li Taj-po
+	- [[Vojakovo domotožje]] ([[Konfucij]])
 
 ### Japonska književnost
-*7. stol*
+*7. stol, Japonska*
 - Religija: budizem (zen budizem)
 - Sveta knjiga: --
 - Vrhunec:
 	- Macubašo (Haiku)
 		- 1 kitica, 3 verzi, 5 + 7 + 5 zlogov
-		- 
+		- 1. nekaj splošnega, 2. trenutek ali hip, 3. presečišče obeh
 
 ### Arabska književnost
-**
-- Religija: 
-- Sveta knjiga:
+*6. stol*
+- Religija: Islamska religija
+- Sveta knjiga: Koran
 - Vrhunec:
-	- 
+	- 1001 noč (zbirka pravljic)
