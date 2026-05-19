@@ -28,12 +28,14 @@
 	- 
 
 ### Perzijska književnost
-**
-- Religija: 
-- Sveta knjiga:
+*2000 pr. nš. št., današnji Irak/Iran*
+- Religija: Perzijska religija 
+- Sveta knjiga: Avesta (utemeljitelj Zaratustra)
 - Vrhunec:
-	- 
-
+	- Šahname (narodni ep)
+	- Hatis (pisal gazele)
+	- Omar Hajan (pisal rubajate - 4 vrstičnice, perzijski koledar)
+	
 ### Indijska književnosti
 **
 - Religija: 
