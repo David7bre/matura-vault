@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41dc939853c576c9",
+        "id": "c4e83623b723a605",
         "type": "tabs",
         "children": [
           {
-            "id": "0f832801ce5a03df",
+            "id": "54aa534829376c3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "bb0b3c118958007a",
@@ -163,13 +162,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "4ea173d3a522bfb9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,13 +188,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f832801ce5a03df",
+  "active": "cc48eedd8239ae23",
   "lastOpenFiles": [
-    "BTRFS!.md",
     "Slovenščina/Obdobja/Orientalske književnosti.md",
+    "BTRFS!.md",
     "Slovenščina/Dela",
     "Slovenščina/Avtorji",
     "Slovenščina/Dela",
