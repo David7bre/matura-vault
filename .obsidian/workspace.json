@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
+                "file": "Slovenščina/Obdobja/Evropski srednji vek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prilika o izgubljenem sinu"
+              "title": "Evropski srednji vek"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
+                "file": "Slovenščina/Obdobja/Evropski srednji vek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prilika o izgubljenem sinu"
+              "title": "Backlinks for Evropski srednji vek"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
+                "file": "Slovenščina/Obdobja/Evropski srednji vek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prilika o izgubljenem sinu"
+              "title": "Outgoing links from Evropski srednji vek"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
+                "file": "Slovenščina/Obdobja/Evropski srednji vek.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prilika o izgubljenem sinu"
+              "title": "Outline of Evropski srednji vek"
             }
           },
           {
@@ -216,14 +216,15 @@
   },
   "active": "926faec402afd3f8",
   "lastOpenFiles": [
-    "Slovenščina/Dela/Vojakovo domotožje.md",
-    "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
-    "Slovenščina/Obdobja/Evropski srednji vek.md",
-    "Dante Alighieri.md",
-    "Dante.md",
-    "Slovenščina/Dela/Biblija.md",
     "Slovenščina/Obdobja/Orientalske književnosti.md",
     "Slovenščina/Slogovna sredstva.md",
+    "Slovenščina/Obdobja/Evropski srednji vek.md",
+    "Slovenščina/Avtorji/Dante Alighieri.md",
+    "Slovenščina/Dela/Božanska komedija.md",
+    "Slovenščina/Dela/Vojakovo domotožje.md",
+    "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
+    "Dante.md",
+    "Slovenščina/Dela/Biblija.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "README 1.md",
