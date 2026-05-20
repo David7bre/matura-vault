@@ -1,4 +1,4 @@
-*Okoli leta 1000*
+*Okoli leta 1000 ([[Evropski srednji vek]])*
 - Versko besedilo
 	- 1. in 3. del - ==obrazca za splošno izpoved==
 	- 2. del- ==[[Pridiga o grehu in pokori]]==
