@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "189bdaed544c0bb2",
+        "id": "83d63e05dc6e6be5",
         "type": "tabs",
         "children": [
           {
-            "id": "6d2dc8fe2701cb45",
+            "id": "b8c6712596b01e71",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-              "type": "markdown",
-              "state": {
-                "file": "Slovenščina/Avtorji/Konfucij.md",
-                "mode": "source",
-                "source": false
-              },
             }
           }
         ]
@@ -96,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slovenščina/Obdobja/Antika.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Antika"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -115,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slovenščina/Obdobja/Antika.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Antika"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -158,20 +152,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "d63016c34cda4095",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 455.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,24 +191,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d2dc8fe2701cb45",
+  "active": "b8c6712596b01e71",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Slovenščina/Obdobja/Orientalske književnosti.md",
+    "Slovenščina/Avtorji/Konfucij.md",
     "Slovenščina/Obdobja/Evropski srednji vek.md",
-    "Slovenščina/Dela/Vojakovo domotožje.md",
-    "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
     "Slovenščina/Dela/Pridiga o grehu in pokori.md",
     "Slovenščina/Dela/Krst pri Savici.md",
     "Slovenščina/Dela/Brižinski spomeniki.md",
     "Slovenščina/Dela/Božanska komedija.md",
-    "Slovenščina/Slogovna sredstva.md",
-    "Slovenščina/Dela/Biblija.md",
-    "Slovenščina/Avtorji/Konfucij.md",
     "Slovenščina/Avtorji/Dante Alighieri.md",
-    "Slovenščina/Dela/Untitled.md",
-    "Slovenščina/Obdobja/Antika.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
+    "README 1.md",
+    "Slovenščina/Obdobja/Orientalske književnosti.md",
+    "BTRFS!.md",
+    "Slovenščina/Dela",
+    "Slovenščina/Avtorji",
     "Slovenščina/Dela",
     "Slovenščina/Avtorji",
     "Slovenščina/Obdobja",
