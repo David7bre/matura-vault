@@ -1,4 +1,12 @@
-- Pridiga - v resnici pomeni prepričevanje - je pol-literarno delo
+- Pridiga (homilija) - v resnici pomeni prepričevanje - je pol-literarno delo
 	- Ima namen poučevati
 	- Je izvirno
-- 
+- Zgodba o Adamu in Evi
+- **Grehi:**
+	- Požrtvovanje
+	- Oklebetanje (ljudi po krivem obtožimo ali izdamo)
+	- Tativna
+	- Uboj
+	- Spolni užitki
+	- Prelomljena prisega
+	- Sovraštvo
