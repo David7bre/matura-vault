@@ -1,11 +1,12 @@
 ==Najpomembnejše srednjeveško literarno delo==
-- Predstavlja ==kulturno, politično in družbeno stanje== takratnega časa
-- Najprej poimenovana "<abbr title="takrat pomenilo pripovedno delo, ki se začne z žalostjo, konča pa s srečo" style="text-decoration: none; color: #7f6df2; cursor: help;">komedija</abbr>"
-	- <abbr title="Izgovorjava: Đovani Bokačo" style="text-decoration: none; cursor: help;">Giovani Boccacio</abbr> dodal "božanska"
-- Vplivala na [[Krst pri Savici]] in Dekameron 
+- Predstavlja kulturno, politično in družbeno stanje takratnega časa - ==Enciklopedija==
+	- Vpogled na način življenja in razmišljanja
+- Najprej poimenovana ==**komedija**==
+	- Pripovedno delo, ki se začne z žalostjo, konča pa s srečo (od pekla do raja)
+	- <abbr title="Izgovorjava: Đovani Bokačo" style="text-decoration: none; cursor: help;">Giovani Boccacio</abbr> dodal "==božanska=="
+- Vplivala na [[Krst pri Savici]] ([[France Prešern]]) in Dekameron (100 spevov)
 
 **Sporočilo**: Človek v življenju lahko zaide a se grehov lahko očisti.
-
 #### Vsebina 
 ==Potovanje človekove duše skozi onostranstvo==
 
@@ -22,9 +23,6 @@ Skozi te tri dele tudi ==tri osebe==:
 Vsak izmed treh delov je zgrajen iz 33 spevov.
 $$3*33 spevov + 1uvodni=100spevov$$
 Celotno delo je iz ==tercin== - ritem je jambski ==enajsterec==
-
-
-**Opomba:** Zadrži miško nad besedami nad katerimi se ti pojavi vprašaj, za dodatne informacije.
 
 [[Slogovna sredstva#Božanska komedija]]
 
