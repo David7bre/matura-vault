@@ -4,3 +4,6 @@
 - ==Mnogovezje==
 	- zagledal => usmilil => prilekel => objel => poljubil
 - ==Stopnjevanje== - Kupišenje veznikov (in...) (soupada s stopnjevanjem)
+
+### Božanska komedija
+- Metaforika

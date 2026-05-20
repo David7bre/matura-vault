@@ -2,6 +2,7 @@
 - Predstavlja ==kulturno, politično in družbeno stanje== takratnega časa
 - Najprej poimenovana "<abbr title="takrat pomenilo pripovedno delo, ki se začne z žalostjo, konča pa s srečo" style="text-decoration: none; color: #7f6df2; cursor: help;">komedija</abbr>"
 	- <abbr title="Izgovorjava: Đovani Bokačo" style="text-decoration: none; cursor: help;">Giovani Boccacio</abbr> dodal "božanska"
+- *Vplivala na [[Krst pri Savici]] in Dekameron* 
 
 #### Vsebina 
 ==Potovanje človekove duše skozi onostranstvo==
@@ -23,6 +24,7 @@ Celotno delo je iz ==tercin== - ritem je jambski ==enajsterec==
 
 **Opomba:** Zadrži miško nad besedami nad katerimi se ti pojavi vprašaj, za dodatne informacije.
 
+[[Slogovna sredstva#Božanska komedija]]
 
 ---
 
