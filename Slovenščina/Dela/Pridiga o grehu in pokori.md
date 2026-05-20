@@ -1,0 +1,4 @@
+- Pridiga - v resnici pomeni prepričevanje - je pol-literarno delo
+	- Ima namen poučevati
+	- Je izvirno
+- 
