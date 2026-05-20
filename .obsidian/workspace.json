@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "fc52db57cf86c73b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "926faec402afd3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slovenščina/Obdobja/Evropski srednji vek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evropski srednji vek"
+            }
+          }
+        ]
+      },
+      {
         "id": "26c7c59cf48ba643",
         "type": "tabs",
         "children": [
@@ -13,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Slovenščina/Obdobja/Orientalske književnosti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Orientalske književnosti"
             }
           }
         ]
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Slovenščina/Obdobja/Evropski srednji vek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Evropski srednji vek"
             }
           },
           {
@@ -113,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Slovenščina/Obdobja/Evropski srednji vek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Evropski srednji vek"
             }
           },
           {
@@ -156,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Slovenščina/Obdobja/Evropski srednji vek.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Evropski srednji vek"
             }
           },
           {
@@ -194,16 +214,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d63016c34cda4095",
+  "active": "926faec402afd3f8",
   "lastOpenFiles": [
-    "Slovenščina/Slogovna sredstva.md",
-    "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
     "Slovenščina/Dela/Biblija.md",
+    "Slovenščina/Obdobja/Evropski srednji vek.md",
+    "Slovenščina/Obdobja/Orientalske književnosti.md",
     "Slovenščina/Dela/Vojakovo domotožje.md",
+    "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
+    "Slovenščina/Slogovna sredstva.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "README 1.md",
-    "Slovenščina/Obdobja/Orientalske književnosti.md",
     "BTRFS!.md",
     "Slovenščina/Dela",
     "Slovenščina/Avtorji",
