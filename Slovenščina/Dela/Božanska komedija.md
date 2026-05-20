@@ -9,7 +9,7 @@
 #### Zgradba
 Zgrajena je iz ==3 delov==:
 - Pekel (alegorija za zlo)
-- Vice (alegorija za očiščenej)
+- Vice (alegorija za očiščenje)
 - Nebesa (alegorija za svobodo in spoznanje)
 Skozi te tri dele tudi ==tri osebe==:
 - Dante (alegorija za umrljivo človeško dušo)
