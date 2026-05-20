@@ -38,3 +38,11 @@
 	- Ep o Igorjeven pohodu
 
 ### Meščanska književnost
+*Nastajala v poznem srednjem veku*
+- Razvijeta predvsem lirika in dramatika (manj je epike)
+- Drznejo začeti ulično gledališče improvizacijskega tipa
+- Burka/Farsa - kratka komična igra (vključuje tudi norčevanje, preklinjanje...) na ulici
+- Lirske pesmi različnih tem in motivov zbrane v zbirki Carmina Burana 
+	- Pripisujejo jo potujočim študentim - Vulgati
+- Prvič po entiki se pojavi poezija - Sladki novi slog (avtor [Dante Alighieri](Dante Alighieri))
+- 
