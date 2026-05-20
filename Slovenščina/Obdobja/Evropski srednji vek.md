@@ -13,9 +13,9 @@
 
 ### Veska književnost
 *5. do 8. stoletje*
-- Jezik - latinščina, Pisava - latinična
-- Nastajale vse literarne zvrsti (najbolj razširjena - dramatika)
-- Prepoved javnih predstav - dovoljene le kratke igre z versko tematiko
+- ==Jezik - latinščina, Pisava - latinična==
+- Nastajale vse literarne zvrsti (najbolj razširjena - ==dramatika==)
+- Prepoved javnih predstav - dovoljene le ==kratke igre z versko tematiko==
 	- Pasjoni: Uprizarjanje Kristusovega trpljenja
 	- Miraklji: Uprizarjanje Kristusovih čudežev
 	- Misteriji: Uprizarjanje verskih skrivnosti
@@ -27,5 +27,14 @@
 *Natsjala v visokem srednjem veku*
 - Jeziki - ljudski oz. narodni
 - Prevladuje pesništvo
-- Višek plemiškega pesništvja - junaški narodni epi
-- Lirsko pesni
+- Vrhunec 1 - ==Trubadurska lirika==
+	- *Trubadurji - potujoči pevci s kitarami*
+- Vrhunec 2 - ==viteški romani== (vsebina je fantastična)
+	- *Najbolj znan "Tristan in Izolda"*
+- ==Junaški narodni epi==: 
+	- Ep o Beowulfu
+	- Ep o Nibelungih
+	- Ep o Cidu \[Sidu\]
+	- Ep o Igorjeven pohodu
+
+### Meščanska književnost
