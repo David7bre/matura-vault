@@ -15,6 +15,12 @@
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Slovenščina/Avtorji/Konfucij.md",
+                "mode": "source",
+                "source": false
+              },
             }
           }
         ]
