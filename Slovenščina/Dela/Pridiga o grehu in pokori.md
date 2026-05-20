@@ -19,3 +19,4 @@
 - Kulturno - najstarejši zapis
 - Jezikovno - poznavanje starega jezika
 - Versko - stare prigode, kaže na širjenje krščanstva, versko sporočilo se od takrat ni spremenilo
+
