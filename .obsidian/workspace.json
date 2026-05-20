@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41dc939853c576c9",
+        "id": "26c7c59cf48ba643",
         "type": "tabs",
         "children": [
           {
-            "id": "0f832801ce5a03df",
+            "id": "d5ea5378d8409701",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Obsidian Git: Switch Branch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,10 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a21fc27bf567fd1b",
+  "active": "d63016c34cda4095",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Slovenščina/Slogovna sredstva.md",
+    "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
+    "Slovenščina/Dela/Biblija.md",
+    "Slovenščina/Dela/Vojakovo domotožje.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "README 1.md",
     "Slovenščina/Obdobja/Orientalske književnosti.md",
     "BTRFS!.md",
