@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slovenščina/Slogovna sredstva.md",
+                "file": "Slovenščina/Dela/Božanska komedija.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slogovna sredstva"
+              "title": "Božanska komedija"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slovenščina/Slogovna sredstva.md",
+                "file": "Slovenščina/Dela/Božanska komedija.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Slogovna sredstva"
+              "title": "Backlinks for Božanska komedija"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slovenščina/Slogovna sredstva.md",
+                "file": "Slovenščina/Dela/Božanska komedija.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Slogovna sredstva"
+              "title": "Outgoing links from Božanska komedija"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slovenščina/Slogovna sredstva.md",
+                "file": "Slovenščina/Dela/Božanska komedija.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Slogovna sredstva"
+              "title": "Outline of Božanska komedija"
             }
           },
           {
@@ -216,6 +216,7 @@
   },
   "active": "926faec402afd3f8",
   "lastOpenFiles": [
+    "Slovenščina/Slogovna sredstva.md",
     "Slovenščina/Dela/Božanska komedija.md",
     "Slovenščina/Dela/Prilika o izgubljenem sinu.md",
     "Slovenščina/Dela/Biblija.md",
@@ -225,7 +226,6 @@
     "Slovenščina/Avtorji/Konfucij.md",
     "Slovenščina/Obdobja/Evropski srednji vek.md",
     "Slovenščina/Obdobja/Orientalske književnosti.md",
-    "Slovenščina/Slogovna sredstva.md",
     "Dante.md",
     "README.md",
     "conflict-files-obsidian-git.md",

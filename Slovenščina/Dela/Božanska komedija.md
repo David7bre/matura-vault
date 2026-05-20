@@ -4,6 +4,9 @@
 	- <abbr title="Izgovorjava: Đovani Bokačo" style="text-decoration: none; cursor: help;">Giovani Boccacio</abbr> dodal "božanska"
 - *Vplivala na [[Krst pri Savici]] in Dekameron* 
 
+#### Sporočilo
+Človek v življenju lahko zaide a se grehov lahko očisti.
+
 #### Vsebina 
 ==Potovanje človekove duše skozi onostranstvo==
 
