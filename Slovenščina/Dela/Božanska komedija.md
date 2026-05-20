@@ -1,11 +1,10 @@
-- ==Najpomembnejše srednjeveško literarno delo==
+==Najpomembnejše srednjeveško literarno delo==
 - Predstavlja ==kulturno, politično in družbeno stanje== takratnega časa
 - Najprej poimenovana "<abbr title="takrat pomenilo pripovedno delo, ki se začne z žalostjo, konča pa s srečo" style="text-decoration: none; color: #7f6df2; cursor: help;">komedija</abbr>"
 	- <abbr title="Izgovorjava: Đovani Bokačo" style="text-decoration: none; cursor: help;">Giovani Boccacio</abbr> dodal "božanska"
-- *Vplivala na [[Krst pri Savici]] in Dekameron* 
+- Vplivala na [[Krst pri Savici]] in Dekameron 
 
-#### Sporočilo
-Človek v življenju lahko zaide a se grehov lahko očisti.
+**Sporočilo**: Človek v življenju lahko zaide a se grehov lahko očisti.
 
 #### Vsebina 
 ==Potovanje človekove duše skozi onostranstvo==
