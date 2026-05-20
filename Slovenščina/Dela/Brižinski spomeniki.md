@@ -1,0 +1,14 @@
+*Okoli leta 1000*
+- Versko besedilo
+	- 1. in 3. del - ==obrazca za splošno izpoved==
+	- 2. del- ==[[Pridiga o grehu in pokori]]==
+- Pisava - ==Karolinška minuskula==
+- ==Najstarejši slovanski v latinici napisan zapis== sploh
+- Nastali ali v ==Frajzingu== ali v zahodni avstrijski koroški
+- Hranjeni v ==knjižnici v Münchnu==
+- Napisani na pergament
+- 2004 - na izposoji v Ljubljanski Narodni in univerzitetni knjižnici
+- 1863 - ==Kopitar dokaže da so slovenski==
+- Napisani brez narečja in brez germanizmov
+- Ohranjeni so prepisi, ne original
+- Spomeniki - ker so pač stari in spominjajo na nekaj
