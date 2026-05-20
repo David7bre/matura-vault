@@ -13,4 +13,6 @@
 	- Bog => starši => človeški rod
 - Homerska primera (*"tako kot pada listje se praznijo bregovi grešnikov"*)
 - Prestopno verižna rima
-- 
+
+### Pridiga o grehu in pokori
+TODO
