@@ -16,3 +16,15 @@
 
 ### Pridiga o grehu in pokori
 TODO
+
+### Dramilo
+- Besedne ali stavčne figure 
+	- Nagovor
+	- Brezvezje
+	- Poosebitev
+	- Slavno reklo - zadnji 4 verzi
+- Metonomija - Zamenjava množine z ednino pri besedi "Kranjc"
+- Okrasni pridevek
+- Inverzija
+- Metafora (Zemlja = Slovenska dežela)
+- ==Sinekdoha - Zamenjava dela s celoto== (Strgan rokav = Cel si reven)
