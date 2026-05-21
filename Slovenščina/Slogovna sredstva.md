@@ -27,4 +27,4 @@ TODO
 - Okrasni pridevek
 - Inverzija
 - Metafora (Zemlja = Slovenska dežela)
-- ==Sinekdoha - Zamenjava dela s celoto== (Strgan rokav = Cel si reven)
+- =============================================================================================================Sinekdoha - Zamenjava dela s celoto============================================================================================================= (Strgan rokav = Cel si reven)
