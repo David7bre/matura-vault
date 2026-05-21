@@ -1,0 +1,19 @@
+*Kdaj, kje in kaj je počel*
+- Rašica 
+	- Tam rojen in ostane do 12 leta
+- Škocjan 
+	- Tam njegova fara
+- Reka
+	- Obiskuje mestno kapiteljsk šolo
+	- Šola se do 1521
+- Salzburg
+	- Prva resna šola 
+	- 1522 - 1524
+- Trst
+	- Pri škofu Bonnomu
+- Laško pri Zidanem Mostu
+	- 1530 povzdignjen v duhovnika in poslan sem
+	- Tukaj do 1950
+- Ljubljana
+	- Škofijska cerkev
+	- Tukaj do 1536 ko je poslan v Trst od koder se ponovno vrne v 40. letih
