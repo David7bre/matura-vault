@@ -1,0 +1,14 @@
+*Reformacija - versko gibanje v 16. stoletju.*
+- Želeli spremeniti/izboljšati cerkev na prvotna Krščanska načela
+	- Nasprotovanje nemoralni duhovščini
+	- Nasprotovanje bogatenju cerkva (proti prodaji odpustkov)
+	- Proti grajenju dragih cerkva
+- Začetnik - Martin Luther - 31. oktobra 1517 v Wittenbergu na cerkvena vrata nabije 95 tez (napisane na tiskalni stroj)
+- Protestantizem - ime Krščanskih veroizpovedi, ki so se v času reformacije odcepile od Katoliške cerkve
+	- Luterani
+	- Kalvinisti
+	- Hugenoti
+	- Anglikanci
+- **Protestantska načela:**
+	- Vsak vernik naj bere sveto besedo v svojem jeziku
+	- 
