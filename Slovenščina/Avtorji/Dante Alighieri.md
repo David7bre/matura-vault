@@ -5,4 +5,4 @@
 - Zaradi političnih nesoglasij izgnan in preganjan do smrti
 	- Odšel skupaj z družino - Imel 4 otroke
 - Umrl in pokopan v Raveni
-- Najpomembnej del sta Novo življenje in [[Božanska komedija]]
+- Najpomembnejši deli sta Novo življenje in [[Božanska komedija]]

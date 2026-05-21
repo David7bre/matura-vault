@@ -17,3 +17,10 @@
 - Ljubljana
 	- Škofijska cerkev
 	- Tukaj do 1536 ko je poslan v Trst od koder se ponovno vrne v 40. letih
+- Šentjernej
+	- 1547 - poslan urejat faro
+- München
+	- Pobegnil sem zaradi pregona 1548
+	- Ostane do novembra
+- Rottenburg
+	- 
