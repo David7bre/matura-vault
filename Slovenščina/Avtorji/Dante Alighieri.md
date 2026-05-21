@@ -1,5 +1,5 @@
 *1265 - 1321*
-- Najpomembnejši Italjanski srednjeveški pesnik
+- Najpomembnejši Italijanski srednjeveški pesnik
 - Rojen v Firencah
 - Šolal v Firencah
 - Zaradi političnih nesoglasij izgnan in preganjan do smrti
