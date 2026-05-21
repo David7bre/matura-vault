@@ -1,49 +1,55 @@
 #### Kdaj, kje in kaj je počel
-- Rašica 
-	- Tam rojen in ostane do 12 leta
-- Škocjan 
+- ==Rašica== 
+	- Tam ==rojen== in ostane do 12 leta
+- ==Škocjan== 
 	- Tam njegova fara
-- Reka
-	- Obiskuje mestno kapiteljsk šolo
+- ==Reka==
+	- Obiskuje mestno ==kapiteljsko šolo==
 	- Šola se do 1521
-- Salzburg
+==- Salzburg==
 	- Prva resna šola 
 	- 1522 - 1524
-- Trst
-	- Pri škofu Bonnomu
+- ==Trst==
+	- Pri škofu ==Bonnomu==
 - Laško pri Zidanem Mostu
-	- 1530 povzdignjen v duhovnika in poslan sem
+	- 1530 ==povzdignjen v duhovnika== in poslan sem
 	- Tukaj do 1950
 - Ljubljana
 	- Škofijska cerkev
 	- Tukaj do 1536 ko je poslan v Trst od koder se ponovno vrne v 40. letih
 - Šentjernej
 	- 1547 - poslan urejat faro
-- München
-	- Pobegnil sem zaradi pregona 1548
+- ==München==
+	- Pobegnil sem ==zaradi pregona== 1548
 	- Ostane do novembra
-- Rottenburg
+- ==Rottenburg==
 	- Novembra dobi tukaj delovno mesto
 	- Evangeličanski pridigar 
-	- 1549 - Poroči Barbaro
+	- ==1549 - Poroči Barbaro==
 	- 1550 - Rojstvo sina Primoža
-	- 1550 - Napiše Katekizem in Abecednik
-- Kemptn
-	- Dobi prvo samostojno delovno mesto
+	- ==1550 - Napiše Katekizem in Abecednik==
+- ==Kemptn==
+	- Dobi prvo ==samostojno delovno mesto==
 	- Evangeličanski župnik in pridigar
 	- Sem pride 1553
 	- Službo opravlja 8 let
-	- 1555 - Drugič izda Katekizem in Abecednik
+	- ==1555 - Drugič izda Katekizem in Abecednik==
 	- 1557 - Prvi teološki esej
-- Ljubljana (drugič)
+- ==Ljubljana (drugič)==
 	- Prihod - 1561
 	- Ostal toliko časa da je cerkveni organizaciji postavil temelje
-- Derendingen
+- ==Derendingen==
 	- Tukaj preživi 19 let
-	- Umer 28. junija 1586
+	- ==Umer 28. junija 1586==
 
 #### Trubarjev slog
-- Veliko germanizmov
-- Nemški besedni red 
+- ==Veliko germanizmov==
+- ==Nemški besedni red== 
 	- Glagol je na koncu povedi
-- Podvajanje besed z istim p
+- ==Podvajanje besed z istim pomenom==
+- Jezikovni slog
+	- Preprost
+	- Jasen 
+	- Nazoren
+	- Besede so v prvotnem pomenu - namenjeno vsem bralce
+	- Povedi preproste ali vsaj enostavno zložene - priredja
