@@ -1,6 +1,12 @@
 *1758 - 1819*
-- Rojen v Zgornji Šiški sredi Ljubljane
+- Rojen v Zgornji Šiški sredi Ljubljane - 1758
 - Po poklicu je bil duhovnik
 	- Se zanimal za filozofijo, retoriko in poetiko (opusti duhovniško službo)
 - Član Zoisove družbe
-	- Pod njegovim vplivom je 
+	- Pod njegovim vplivom začel literarno in publicistično pots 
+- **Dosežki:**
+	- Prva slovenska pesniška zbirka - Pesmi za pokušino (1806)
+	- Urejal pratiko (1795 - 1806)
+	- Izdajal prvi slovenski časopis - Lublanske novice
+	- Kuharske bukve (1799)
+- Umrl v Ljubljani - 1819
