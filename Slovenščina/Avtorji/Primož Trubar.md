@@ -6,7 +6,7 @@
 - ==Reka==
 	- Obiskuje mestno ==kapiteljsko šolo==
 	- Šola se do 1521
-==- Salzburg==
+- ==Salzburg==
 	- Prva resna šola 
 	- 1522 - 1524
 - ==Trst==
@@ -14,7 +14,7 @@
 - Laško pri Zidanem Mostu
 	- 1530 ==povzdignjen v duhovnika== in poslan sem
 	- Tukaj do 1950
-- Ljubljana
+- ==Ljubljana==
 	- Škofijska cerkev
 	- Tukaj do 1536 ko je poslan v Trst od koder se ponovno vrne v 40. letih
 - Šentjernej
