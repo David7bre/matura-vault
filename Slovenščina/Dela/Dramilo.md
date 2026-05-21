@@ -1,0 +1,5 @@
+- Pesem prvič objabljena v Veliki pratiki ([[Valentin Vodnik]]) - 1795
+	- Izdana pod drugačni naslovom - Pesma na moje rojake
+- Ponovno izide Pesme za pokušino z naslovom Dramilo - 1806
+	- Razloka - besedo Kranjc spremeni v Slovenc
+	- 
