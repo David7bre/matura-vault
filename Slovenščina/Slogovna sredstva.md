@@ -28,3 +28,19 @@ TODO
 - Inverzija
 - Metafora (Zemlja = Slovenska dežela)
 - =============================================================================================================Sinekdoha - Zamenjava dela s celoto============================================================================================================= (Strgan rokav = Cel si reven)
+
+### Majska pesem
+- Besedne prvine
+	- Okrasni pridevki
+	- Inverzija
+	- Poosebitev
+	- Komparacija
+	- Homerska primera *(kot škrjanc...)*
+- Stavčne prvine
+	- Anafora *(Ponovitev na začetku)*
+	- Paralelizem členov
+		- *Ko se isti pojem opiše na več načinov in z različnimi besedami*
+	- Mnogovezje
+	- Stopnjevanje
+	- Nagovor
+	- Vzkliki *(izraz strati)*
