@@ -1,0 +1,19 @@
+*1830 ([[France Prešern]] - pesem ==Slovo od mladosti== - prva prava romantična pesem) - 1848 (==Marčna revlucija==)*
+- Slovenska kultura razdeljena na dva pola:
+	- ==Konzervativna smer== - vodil ==Jernej Kopitar==
+		- Razvoj ==praktične književnosti==
+		- Uveljavlajanje preprostega, ==ljudsko usmerjenega jezika==
+		- Želel ==nov črkopis== - vsak glas svoja črka
+	- ===Literarn-umetnostna smer=== - ==Matija Čop in [[France Prešern]]==
+		- Zagovornika moderne ==evropske romantične književnosti==
+		- Književnost namenjena ==izobražencem==
+		- Uvajata ==intelektualni knjižni jezik==
+		- Bogato besedišče
+		- Antična in biblijska metaforika
+		- Sprožita abecedno vojno - ==črkarska pravda==
+- Najpomembnejši dosežki
+	- Prva romantična zbirka - ==Poezije==
+	- ==Kopitarjeva razprava== o Brižinskih spomenikih
+	- Slovensko liriko postavijo na ==Evropsko raven==
+	- Janez Cigler - ==Sreča v nesreči - romantična povest==
+	- Janaez Bleiweis - črkopis - ==Gajica (še danes uporabljen)==
