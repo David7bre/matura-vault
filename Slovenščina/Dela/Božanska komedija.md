@@ -1,16 +1,15 @@
 ==Najpomembnejše srednjeveško literarno delo, prvo obsežno delo v italjanščini==
+==Najpomembnejši versko-alegorični ep==
 - Predstavlja kulturno, politično in družbeno stanje takratnega časa - ==Enciklopedija==
 	- Vpogled na način življenja in razmišljanja
 - Najprej poimenovana ==**komedija**==
 	- Pripovedno delo, ki se začne z žalostjo, konča pa s srečo (od pekla do raja)
-	- [[Giovani Boccacio]] dodal "==božanska=="
-- Z zgradbo (100 spevov) je vplival na [[Krst pri Savici]] ([[France Prešern]]) in Dekameron
+	- [[Giovani Boccaccio|Boccaccio]] jo preučeval in dodal "==božanska=="
+- Z zgradbo (100 spevov) je vplival na [[Giovani Boccaccio|Boccaccia]] ([[Dekameron]])
 
-**Sporočilo**: Človek v življenju lahko zaide a se grehov lahko očisti.
-#### Vsebina 
-==Potovanje človekove duše skozi onostranstvo==
-
-#### Zgradba
+**Vsebina**: ==Potovanje človekove duše skozi onostranstvo==
+**Sporočilo**: Človek v življenju lahko zaide a se grehov lahko očisti in s tem doseže zveličanje.
+##### Zgradba
 Zgrajena je iz **3 delov**:
 - ==Pekel== (alegorija za zlo)
 - ==Vice== (alegorija za očiščenje)
@@ -29,6 +28,12 @@ $$3*33 spevov + 1uvodni=100spevov$$
 [[Slogovna sredstva#Božanska komedija]]
 
 ---
+## Odlomek - Gruča omahljavcev
+
+Odnosi:
+- Dante - Vergil (*učenec - učitelj*, avtoriteta, prijateljstvo, spoštljivost)
+- Vergil - Haron (strah, avtoriteta)
+- Haron - Grešniki (nasilje, zoraba moči / oblasti, vodja)
 
 *Nemudoma se mi je razjasnilo,*
 	*da v družbo rev nepridnih sva prispela,* 
