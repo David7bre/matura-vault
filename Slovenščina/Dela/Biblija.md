@@ -1,12 +1,13 @@
-*1000 pr. nš. št. - 40, bližnji vzhod - Izrael*
+*1000 pr. nš. št. - 400, bližnji vzhod - Izrael*
 - Je verska, zgodovinska, kulturna, politična in ideološka
 - ==kulturni== pomen (vpliv na Srednji vek)
 - ==literarni== pomen (navdih besedilom)
 - Prevodi:
 	- ==Septuaginda== (Stara zaveza v grščini (300 pr. kr.))
-	- ==Vulgata== (Celotna Biblija v latinščini (400))
+	- ==Vulgata== (Celotna Biblija v latinščini (400)) - Zaključek razvoja
 	- ==Dalmatinov prevod== v slovenščino (za slovenščino literarni standard)
 #### Stara zaveza
+*1000 pr. kr. - 50 pr. kr.*
 - Zgodbe, pregovori, modrosti in pesmi - ==Enciklopedija==
 - V ==hebrejščini==
 - 3 deli:
