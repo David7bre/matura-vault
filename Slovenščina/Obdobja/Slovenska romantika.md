@@ -1,4 +1,4 @@
-*1830 ([[France Prešeren]] - pesem ==Slovo od mladosti== - prva prava romantična pesem) - 1848 (==Marčna revlucija==)*
+*1830 ([[France Prešern]] - pesem ==Slovo od mladosti== - prva prava romantična pesem) - 1848 (==Marčna revlucija==)*
 - Slovenska kultura razdeljena na dva pola:
 	- ==Konzervativna smer== - vodil ==Jernej Kopitar==
 		- Razvoj ==praktične književnosti==
