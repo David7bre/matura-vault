@@ -1,0 +1,12 @@
+*1821 - 1881*
+- ==Najpomembnejši psihološki realist==
+- Kot študent je bil ==član društva== - ==cilj je bil modernizirati Rucijo==
+	- Vsi obsojeni na smrt - ==on obsojen na prisilno delo v SIbiriji==
+- **Najpomembnejša dela**
+	- Zapisi iz mrtvega doma
+	- ==[[Zločin in kazen]]==
+	- Idiot
+	- ==Bratje Karamazovi==
+- Njegovi ==liki so bili protislovne osebnosti==
+- Zanimali so ga vzroki in posledice sodnih odločitev
+- Vplival na teorijo ==nihilizma== - za doseg cilja je upravičeno vsakeršno dejanje
