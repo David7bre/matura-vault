@@ -12,7 +12,7 @@
 - Ohranjeni so prepisi (**Faksimije**) in **ne original**
 - **Verzus** - hrbtna stran
 #### Ime
-- "brižinjski" - slovensko poimenovanje za Freising
+- "brižinski" - slovensko poimenovanje za Freising
 	- Veliko cerkveno središče skozi katerega je potekala trgovska pot
 - "Spomeniki" - ker so pač stari in spominjajo na nekaj
 #### Življenje

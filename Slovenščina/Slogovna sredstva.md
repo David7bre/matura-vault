@@ -6,6 +6,9 @@
 	- *zagledal => usmilil => prilekel => objel => poljubil*
 - ==Mnogovezje== - Kupišenje veznikov (in...) (soupada s stopnjevanjem)
 
+### Vojakovo domotožje
+- ==Retorično uprašanje== - vprašanje na katerega ne pričakujemo odgovora
+	- "Kdaj bo že konec tega boja?"...
 ### Božanska komedija
 - ==Parafraza== - opis z drugimi besedami
 	- črna reka
@@ -19,10 +22,17 @@
 - Prestopno verižna rima
 
 ### Pridiga o grehu in pokori
-TODO
+- ==Odpravljanje ponovitev==
+	- Satan, neprijazni, zlodej stari, zoprnik
+- ==Nagovor==
+	- bratje, sinki (duhovnik v vlogi očeta, boga, učitelja)
+- Ogromno inverzije
+- Ogromno metafor
+	- ded => Adam, solzno telo => trpljenje
 ### Dramilo
+- =============================================================================================================Sinekdoha - Zamenjava dela s celoto============================================================================================================= (Strgan rokav = Cel si reven)
 - Besedne ali stavčne figure 
-	- Nagovor
+	- Nagovor (*"Kranjc"*)
 	- Brezvezje
 	- Poosebitev
 	- Slavno reklo - zadnji 4 verzi
@@ -30,7 +40,6 @@ TODO
 - Okrasni pridevek
 - Inverzija
 - Metafora (Zemlja = Slovenska dežela)
-- =============================================================================================================Sinekdoha - Zamenjava dela s celoto============================================================================================================= (Strgan rokav = Cel si reven)
 
 ### Majska pesem
 - Besedne prvine

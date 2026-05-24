@@ -1,56 +1,60 @@
-*1800 - 1830 (Zahodna Evropa)*
+*Začetki segajo v čas med obema revolucijama (francoska in marčna)*
 *18. stoletje - Predromantika v Nemčiji*
+*1800 - 1830 (Zahodna Evropa)*
 *1830 - 1850 (Drugod)*
 
-##### Osrednja tematika - Izjemni posamezniki
-- ==Romantični junak==
-- Izpostavljen njihov ==notrnji svet/čustveno doživljanje==
-- ==Svetobolje== - Ideali/cilji, ki se ne ujemajo z realnostjo
-	- Zaradi tega doživljajo povprečnost in melanholijo
-- Iščejo izhod drugod:
-	- ==Domišljija==
-	- ==Narava==
-	- ==Eksotični kraji==
-	- ==Samomor==
+Izraz povezan z **srednjeveškimi romani** (fanmtastične prvine, plemenitost, častnost)
+Osrednja tematika povezana z ***izjemnim posameznikom*** (**==Romantični junak==**)
+- **Brez napak**
+- izpostavljen njihov **==notrnji svet/čustveno doživljanje==** in njegov ***odnos do povprečne družbe***
+- Zaradi povprečne stvarnosti občuti ***melankolijo in pesimizem***
+- **==Svetobolje==** - Ideali/cilji se ne ujemajo z stvarnostjo in so zato **neuresničljivi**
+- **Iščejo izhod** drugod:
+	- ***Zaprejo se sami vase***
+	- Gredo v ***naravo***
+	- Potujejo (izselijo se) v ***eksotične kraje*** 
+	- Domišljija
+	- ***Samomor***
 	- Preteklost
+- Po navadi imajo **==nesrečen konec==**
 
-##### Romantični ideali *(taki so romantični junaki)*
-- ==Lepota je najvišja vrednota==
+Značilni so ==**romantični ideali**==
+- **==Lepota==** je najvišja vrednota
 	- Zunanja in notranja
-	- Izvira iz ==Antike==
-- ==Enkratni (izvirni) idealni posamezniki==
+	- Izvira iz ***Antike***
+- ***==Enkratni (izvirni) idealni posamezniki==***
 - Narava odraža duševno razpoloženje
 - Povdarjeno
+	- V prvi vrsti ljubezen
 	- Čustvovanje
 	- Doživljanje
-	- *Prvi vtis v ljubezni*
 
 ##### Književne zvrsti
-- ==Lirika==
-	- ==Najpomembnejša - zaradi subjektivnosti in izpovedovanja romantičnih junakov==
+- **==Lirika==**
+	- **==Najpomembnejša==** - zaradi **subjektivnosti** in **izpovedovanja romantičnih junakov**
 - Epika
-	- Nastajajo ==pomembni romani==
+	- Nastajajo **==pomembni romani==**
 		- Sentimentalni
 		- Zgodovinski
 	- Pravljice z ljudsko osnovo
 - Dramatika
-	- Razmah ==tragedije in zgodovinskih drame==
-
+	- Razmah ==**tragedije in zgodovinskih drame**==
+	- Popularne zgodovinske drame in [[William Sheakspeare|Shakespeare]]
 - *Zbira in zapisuje se tudi ljudsko slovstvo - (umetne pravljice - brata Grimm in Hans Christian Andresenn)*
 
 ##### Najpomembnejši predstavniki
 - Nemčija
-	- ==[[Johann Wolfgang Goethe]]==
+	- **==[[Johann Wolfgang Goethe]]==** (pesništvo)
 	- Heinrich Heine
 	- Friedrich Schiller
 - Anglija
-	- ==Bayron==
+	- **==Bayron==** (pesništvo)
 - Francija
-	- ==Victor Hugo \[Igo\]==
+	- **==Victor Hugo \[Igo\]==** (pripovedništvo)
 - Rusija
-	- ==A. S. Puškin==
+	- **==A. S. Puškin==** (Pikova dama) (pesništvo)
 - Amerika
 	- Edgar Alan Poe
-- Slovenija 
-	- [[France Prešern]]
+- Avstrija - Kranjska (Slovenija)
+	- **==[[France Prešern]]==** (pesništvo)
 
