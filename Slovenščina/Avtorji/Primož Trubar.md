@@ -1,52 +1,39 @@
 #### Kdaj, kje in kaj je počel
-- ==Rašica== 
-	- Tam ==rojen== in ostane do 12 leta
-- ==Škocjan== 
-	- Tam njegova fara
-- ==Reka==
-	- Obiskuje mestno ==kapiteljsko šolo==
-	- Šola se do 1521
-- ==Salzburg==
-	- Prva resna šola 
-	- 1522 - 1524
-- ==Trst==
-	- Pri škofu ==Bonnomu==
-- Laško pri Zidanem Mostu
-	- 1530 ==povzdignjen v duhovnika== in poslan sem
-	- Tukaj do 1950
-- ==Ljubljana==
-	- Škofijska cerkev
-	- Tukaj do 1536 ko je poslan v Trst od koder se ponovno vrne v 40. letih
-- Šentjernej
-	- 1547 - poslan urejat faro
-- ==München==
-	- Pobegnil sem ==zaradi pregona== 1548
-	- Ostane do novembra
-- ==Rottenburg==
-	- Novembra dobi tukaj delovno mesto
-	- Evangeličanski pridigar 
-	- ==1549 - Poroči Barbaro==
-	- 1550 - Rojstvo sina Primoža
-	- ==1550 - Napiše Katekizem in Abecednik==
-- ==Kemptn==
-	- Dobi prvo ==samostojno delovno mesto==
-	- Evangeličanski župnik in pridigar
-	- Sem pride 1553
-	- Službo opravlja 8 let
-	- ==1555 - Drugič izda Katekizem in Abecednik==
-	- 1557 - Prvi teološki esej
-- ==Ljubljana (drugič)==
-	- Prihod - 1561
-	- Ostal toliko časa da je cerkveni organizaciji postavil temelje
-- ==Derendingen==
-	- Tukaj preživi 19 let
-	- ==Umer 28. junija 1586==
+- ==Rašica== - Tam rojen in ostane **do 12 leta**
+- ==Škocjan== - Tam **njegova fara** (tu krščen)
+- ==Reka== - Obiskuje **mestno kapiteljsko šolo**
+	- Šola se **do 1521**
+- ==Salzburg== - priprava na višje šole 
+	- **1522 - 1524**
+- ==Trst== (1.) - v palači škofa **Petra Bonnoma** (**1524 - 1527**)
+	- Škof poslal **študirat** v ==Dunaj== (**1527 - 1529**)
+	- **1529** se vrne v ==Trst== (2.), je **posvečen**
+	- **1530** (do 1550?) škof mu **pripiše škofijo** ==Laško pri Zidanem Mostu==
+- ==Ljubljana== (1.) - Škofijska cerkev (**1535 - 1536**)
+	- Od tod se vrne v ==Trst== (3.) (**1536 - 1542**)
+- ==Šentjernej== - poslan urejat gospodarstvo fare (**1546**)
+	- **1547 - 1548** - umakne se v gradove (**preganjali protestante**)
+	- **1548 - novembra** pregnan v ==Nümberg== (ugledna tiskarna)
+- ==Rottenburg== - Novembra dobi delovno mesto (Evangeličanski pridigar v špitalski cerkvi)
+	- **1549** - Poroči **Barbaro**
+	- **1550** - **Rojstvo sina Primoža**
+- ==Tubingen== - Napiše **Katekizem in Abecednik** (**1550**)
+- ==Kemptn== - **Prvo samostojno delovno mesto** (Evangeličanski župnik in pridigar, opravlja 8 let)
+	- Sem pride **1553**
+	- **1555** - **Drugič izda** Katekizem in Abecednik (V Latinici)
+	- **1557** - **Prvi teološki esej**
+- ==Ljubljana== (2.) - veličastno sprejetje **1561** (**pridigarska turneja** po vsej Sloveniji)
+	- Leta **1565 dokončno izgnan**
+	- Nekaj časa v mestu ==Lauffen==
+	- Ustali se v ==Derendingenu== kjer preživi 19 let 
+	- **Umre 28. junija 1586**
 
-#### Trubarjev slog
-- ==Veliko germanizmov==
-- ==Nemški besedni red== 
-	- Glagol je na koncu povedi
-- ==Podvajanje besed z istim pomenom==
+#### Trubarjev jezik in slog
+- Vpliv **dolenskega narečja**
+- Veliko **germanizmov** (Zaradi življenja v Rottenburgu)
+- Nemški besedni red 
+	- **Glagol je na koncu povedi**
+- **Podvajanje besed z istim pomenom**
 - Jezikovni slog
 	- Preprost
 	- Jasen 
