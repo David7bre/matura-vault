@@ -1,0 +1,27 @@
+*1866 (isto leto kot [[Josip Jurčič|Jurčičev]] roman)*
+- Prvotno zasnovan z ==glavnim junakom Marmeladovom== - glavna tema ==alkoholizem== - naslov ==Pijanci==
+- Kasneje je ==glavni lik Razkolnikov==, glavna ==tema pa umor==
+- **Snov:** ==Ruska družba in revščina== v Petersburgu v 19. stoletju
+- **Tema:** 
+	- ==Družbena kritika== - revščina
+	- Prostitucija
+	- Alkoholizem
+	- ==Kršitev družbenih norm==
+- **Vrednote: **
+	- ==Razumnost==
+	- Glas avtorja
+	- ==Prijateljstvo==
+- **Glavni motivi: **
+	- Motiv ==umora== - družbeni motiv, psihološki motiv, filozofski motiv
+	- Motiv ==krivde== - prva človekova kazen
+	- Motiv ==greha== - umor, prostitucija, alkoholizem, izkoriščanje revščine
+	- Motiv ==svobode== - resnica osvobaja
+- **Stranski motivi:**
+	- Motiv žrtvovanja - Dunja in Sonja bi se žrtvovali za družino
+	- Motiv alkoholizma - Marmeladov
+	- Motiv prijateljstva - Razumihin, Sonja
+	- Motiv koristoljubja - Aljona, Lužin
+- **Ideja:** ==Nadčoveku je za dosego ciljev dovoljeno izkoristiti vsa sredstva.== Zanj pravila ne veljajo, med tem ko drugemu ljudstvu to ni dosegljivo.
+- **Sporočilo:** ==Ne moremo narediti česarkoli za dosego ciljev, saj če že ni drugega razloga, se bo to odražalo na naši vesti.==
+- **Psihološki smisel romana:** ==Po umoru postane drug človek.==
+- Na koncu ga odreši priznanje 
