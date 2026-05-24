@@ -1,0 +1,55 @@
+*Literarno/Književno obdobje*
+*1848 (Marčna revolucija) - 1899 ([[Ivan Cankar|Cankarjeva]] Erotika, ŽupančičevaČaša opojnosti)*
+- Vsebinske in oblikovne značilnosti romantike pod vplivom realizma izginjajo
+- **Marčna revolucija pripomore razvoju slovenske književnosti**
+	- Odprava cenzure *(razmah časopisov)*
+	- Ustvarjanje založb *(Mohorjeva družba v Celocvu, Celjska podružnica)*
+	- Izhajanje dveh literarnih revij *(Ljubljanski zvon - liberarna, Bom in svet - katoliška)*
+	- Krepitev narodne zavesti
+	- Ustvarjanje političnih strank *(Staroslovenci in Mladoslovenci)*
+- **Staroslovenci**
+	- Konzervativni
+	- Vodil Janez Bleiweis
+	- Zavezemajo se za enakopravnost v Avstriji
+	- Zavzemanje za rabo slovenščine v šolah in uradih
+	- Prirejajo se prireditve v čitalnica - Besede
+- **Maldoslovenci**
+	- Liberarna ustvaritev programa Zedinjena Slovenija
+	- Navduševal jih je Fran Levstik
+	- Zavzemajo samo za slovenščino kot uradni jezik
+	- Prirejajo tabore - 2. slovenski univerzni tabor v Žalcu
+
+##### Literarni programi
+- **Levstikov program *(Fran Levstik)***
+	- Literarni potopis - Popotovanje od Litije do Čateža
+	- Vzpodbuje pisanje pripovedništva
+	- Predlaga snov iz slovenske zgodovine
+	- Predlaga preprost, vendar bogat slovenski jezik
+	- Nima smisla pisati lirike, saj ne more biti boljša od [[France Prešern|Prešernove]]
+	- Za pisanje dramatike nimamo junakov
+- **Stritarjev program *(Josip Stritar)***
+	- Vzpodbuja umetniško svobodo v pripovedništvu
+	- Vzpodbuja sledenje Evropskim tokom
+	- Intelektualen jezik
+- **Celestinov program *(Fran Celestin)***
+	- Navduševanje nad poetičnim realizmom
+
+- Prevladujeta dve smeri
+	- Romantični realizem *(do konca 80. let)* - razvijajo pod vplivom romantike
+	- Poetični realizem *(po 1881)*
+- Med zvrstmi se najbolj razvije epika (romani, povesti, značajevke)
+	- Razvije se tudi episko pripovedništvo ([[Anton Aškerc]])
+- Lirike je manj, ni pa nepomembna (Simon Gregorčič)
+- Dramatike skoraj da ni *(Pizkusi Levstik s Tugomerjem, vendar ne konča)*
+- **Glavni predstavniki:**
+	- Pripovedništvo
+		- Fran Levstik
+		- [[Josip Jurčič]]
+		- Josip Stritar
+		- Janko Kresnik
+		- [[Ivan Tavčar]]
+	- Lirski pesniki
+		- Simon Gregorčič
+		- Simon Jenko
+	- Epski pesnik
+		- [[Anton Aškerc]]
