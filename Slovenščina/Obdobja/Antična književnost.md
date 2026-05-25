@@ -1,5 +1,5 @@
 *9. stol. pr. kr. (Homerjeva epa) - 5. stol. (propad vzhodnega rimskega imperija)*
-
+%% Rimske pomoje ne rabis skor nic vedit %%
 ### Grška književnost
 *mala Azija (Grčija)*
 Zasnovali matematiko, fiziko, astronomijo, zgodovino in postavili **temelje književnosti**
@@ -33,7 +33,7 @@ Zasnovali matematiko, fiziko, astronomijo, zgodovino in postavili **temelje knji
 		- Nastane nova ==**komedija**==
 		- pojavi se ==**roman**== (pripoved v prozi)
 			- Filozofski (Aristotel, Platon, Herodot)
-			- Moralistična
+			- Moralistični
 #### Književne zvrsti
 - ##### Grška epika v verzih
 	Začetki v arhaičnem obdobju (**[[Homer]]**), prej peli ljudske **pesnitve o velikih junakih**

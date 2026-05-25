@@ -9,6 +9,11 @@
 ### Vojakovo domotožje
 - ==Retorično uprašanje== - vprašanje na katerega ne pričakujemo odgovora
 	- "Kdaj bo že konec tega boja?"...
+
+### Sonet 61
+- ==protivni okrasni pridevek==
+	- grenko - sladki vzdih
+
 ### Božanska komedija
 - ==Parafraza== - opis z drugimi besedami
 	- črna reka
@@ -56,3 +61,8 @@
 	- Stopnjevanje
 	- Nagovor
 	- Vzkliki *(izraz strati)*
+
+### Od lepe Vide
+- Napev
+- prevladuje jambski ritem, vmes tudi trohejski
+- preprosta, neenako dolge kitice, verzi različnih dolžin

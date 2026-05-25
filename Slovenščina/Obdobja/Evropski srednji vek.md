@@ -55,7 +55,7 @@
 	- **Lirika**:
 		- Lirske pesmi različnih tem in motivov zbrane v zbirki ==Carmina Burana== ("Prošnja za oblačila")
 		- Pripisujejo jo potujočim študentom **Vagantom** - Vagantska poezija 
-	- Prvič po antiki se pojavi poezija - ==Sladki novi slog== (avtor [[Dante Alighieri]])
+	- Prvič po [[Antična književnost|antiki]] se pojavi poezija - ==Sladki novi slog== (avtor [[Dante Alighieri]])
 - Epika:
 	- Malo
 	- Nastal najpomembnejši virsko-alegorični ep [[Božanska komedija]]

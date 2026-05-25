@@ -21,7 +21,7 @@ Osrednja tematika povezana z ***izjemnim posameznikom*** (**==Romantični junak=
 Značilni so ==**romantični ideali**==
 - **==Lepota==** je najvišja vrednota
 	- Zunanja in notranja
-	- Izvira iz ***Antike***
+	- Izvira iz ***[[Antična književnost|Antike]]***
 - ***==Enkratni (izvirni) idealni posamezniki==***
 - Narava odraža duševno razpoloženje
 - Povdarjeno
