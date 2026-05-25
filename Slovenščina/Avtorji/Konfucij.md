@@ -1,4 +1,4 @@
-*V času grške antike*
+*V času grške [[Antična književnost|antike]]*
 Kitajski ==filozof==
 Upravljal različne funkcije (ustanovil šolo, začetnik književnosti)
 **Zbirka pesmi**: ==Šiking==

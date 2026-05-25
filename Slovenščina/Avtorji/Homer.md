@@ -1,0 +1,14 @@
+*Okoli 8. - 9. stol. pr. kr.*
+Avtor epov [[Iliada]] in Odiseja
+- Naj bi bil rojen v **mali Aziji** - Izmir
+- Naj bi bil slep
+- Naj bi bil **potujoči pevec** - rapsod (glasbilo: gusli)
+Homerski slog:
+- ==**homerska širina**== - Pomeni izredno natančno, slikovito in počasno pripovedovanje
+- ==**homerska primera**== - Značilno primerjanje z naravo
+- **==stalni okrasni pridevek==** - Določen pridevek vedno znova pojavlja ob istem samostalniku
+
+**==Homersko vprašanje==**
+- Dvom, da je Homer sploh avtor ter dveh epov
+	- Verjetno avtor [[Iliada|Iliade]]
+	- Odiseja naj bi bila mlajša od 50 do 100 let
