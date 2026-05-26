@@ -6,3 +6,4 @@
 	- Odšel skupaj z družino - Imel 4 otroke
 - Umrl in pokopan v Raveni
 - Najpomembnej del sta Novo življenje in [[Božanska komedija]]
+P
