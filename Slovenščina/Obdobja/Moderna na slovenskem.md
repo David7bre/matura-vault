@@ -1,0 +1,77 @@
+*Od 1899 (Cankar - Erotika; Župančič - Čaša opojnosti)*
+*Do 1918 (Konec 1. svetovne vojne; smrt Cankarja*
+- Subjektivnost, nasprotje [[Evropski realizem in naturalizem|realizmu]], vse štiri smer [[Evropska moderna|moderne]]
+- Pomen obdobja:
+	- ==*Drugi vrh slovenske besedne umetnosti*==
+	- Vrh dramatike in lirike
+	- ***Enakomeren razvoj vseh literarnih zvrsti***
+	- Razmah drugih umetnosti
+	- **Slovenska književnost se ==evropizira**== (vzporedna z Evropo)
+##### Družbeno okolje
+- Živeli v Avsto-ogrski monarhiji
+- **1. Svetovna vojna** (1914 - 1918) (večina slovencev na soški fronti)
+- Po razpadu ustanovljena **država SHS**
+	- ==Nemščina uradni jezik==
+	- Prodiranje kapitalizma na podeželje 
+		- Obogateli posamezniki
+		- ==Preseljevanje== (rudniki v ZDA in med Nemčijo in Francijo)
+		- ==Proletariziranje kmetov== (postali delavci)
+- Slovenci imeli tri politične stranke:
+	- **Klerikalci** (konzervativni) - verni (se je krepila)
+	- **Liberalna stranka** - izobraženci
+	- **Socialno-demokratična stranka** - ostali (delavci, kmeti)
+- ==Močno gibanje za združenje slovencev in vseh drugih balkanskih narodov==
+	- Cankar podpiral združenje Slovencev, Hrvatov in Srbov
+		- Le gospodarsko, ne kulturno (zaradi opuščanja slovenskega jezika)
+
+##### Predstavniki
+- Četverica
+	- **==Josip Aleksandrov Murn==**
+	- **==Oton Župančič==**
+	- ==**[[Ivan Cankar]]**==
+	- ==**[[Dragotin Kette]]**==
+- Sopotniki moderne:
+	- Zofka Kveder
+	- Rudolf Maister
+	- Fran Miličinski
+	- Fran Finžgar
+	- ...
+
+##### Literarne zvrsti
+- **Lirika:** (drugi vrh slovenske lirike)
+	- Vplivale vse štiri smeri
+	- Pisali ==**sonete**== pod vplivom [[France Prešern|Prešerna]]
+	- Hkrati tudi **svobodne presniške oblike**
+	- Zgledovali po [[France Prešern|Prešernu]] in po [[Ljudsko slovstvo|ljudskemu slovstvu]]
+	- Prevladujejo ljubezenske, razpoloženske, miselne tematike
+	- Najpomembnejši:
+		- [[Ivan Cankar]]
+		- Oton Župančič
+		- Josip Murn
+		- [[Dragotin Kette]] (Kette in Murn umrla pred izdajo svojih prvih pesniških zbirk)
+- **Pripovedništvo:**
+	- Dobimo najpomembnejšega slovenskega pisatelja [[Ivan Cankar|Cankarja]]
+		- Vrh doseže z **==črticami==**
+			- Kratka **lirsko-epska** pripoved v prozi
+			- **Epskost** v osrednjem pripetljaju (vedno iz njegovega življenja)
+			- **Lirskost** v občutkih povezanih z pripetljajem
+			- Izjemno poetičen slog
+		- Tudi povesti, novele, romane
+			- ==V vseh izpostavljal delavsko, malomeščansko okolje==
+			- Pisanje obogatil z motivi povezanimi z ==**materjo**==
+		- Vse štiri moderne smeri (simbole je pojasnil)
+- **Dramatika:**
+	- Z [[Ivan Cankar|Cankarjem]] se razvije **==izvirna in vrhunska dramatika==**
+		- Je najpomembnejši dramatik
+		- Pokazal problematiko družbe (**družbeno kritične**)
+			- Zato delno realistične
+	- Prevladujejo drame, tudi komedija, farse in poetične drame
+	- Oton Župančič napisal tragedijo (**Veronika deseniška**)
+	- Fran Finžgar pisal tudi **ljudske igre**
+- **Kritika in esejistika:** (nova zvrst)
+	- [[Ivan Cankar|Ivan]] in Izidor Cankar
+	- Najbolj znani
+		- Ivan:
+			- Bela Krizentema (spodbuda k pisanju)
+			- Slovenci in Jugoslovani (politična)
+		- Izidor: S poti

@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"e492e6cf092838c0","type":"file","file":"Slovenščina/Obdobja/Orientalske književnosti.md","x":-520,"y":-60,"width":400,"height":120},
+		{"id":"af57336399d1bb17","type":"file","file":"Slovenščina/Avtorji/Konfucij.md","x":-628,"y":-261,"width":184,"height":81},
+		{"id":"e32380ef3270eb53","type":"file","file":"Slovenščina/Dela/Vojakovo domotožje.md","x":-684,"y":-380,"width":296,"height":50},
+		{"id":"15c24956b41dd1ff","type":"file","file":"Slovenščina/Dela/Biblija.md","x":-320,"y":-261,"width":340,"height":82},
+		{"id":"98fc6af929389e90","type":"file","file":"Slovenščina/Dela/Prilika o izgubljenem sinu.md","x":-340,"y":-380,"width":380,"height":50},
+		{"id":"c9ba514be1673942","type":"file","file":"Slovenščina/Obdobja/Antična književnost.md","x":-444,"y":180,"width":400,"height":120},
+		{"id":"6ec5a8d8e4ac6391","type":"file","file":"Slovenščina/Avtorji/Homer.md","x":-511,"y":420,"width":237,"height":81},
+		{"id":"64ba7d64314714da","type":"file","file":"Slovenščina/Avtorji/Sofoklej.md","x":-200,"y":420,"width":252,"height":82},
+		{"id":"7a9a605803bebce7","type":"file","file":"Slovenščina/Dela/Iliada.md","x":-463,"y":580,"width":142,"height":50},
+		{"id":"c1d58355f5d3dd73","type":"file","file":"Slovenščina/Dela/Antigona.md","x":-154,"y":580,"width":160,"height":50},
+		{"id":"2fca4a570f307ea1","type":"file","file":"Slovenščina/Obdobja/Evropski srednji vek.md","x":262,"y":51,"width":400,"height":120},
+		{"id":"677619efa1c23f8b","type":"file","file":"Slovenščina/Avtorji/Dante Alighieri.md","x":182,"y":-151,"width":240,"height":82},
+		{"id":"9b052a267283fb9b","type":"file","file":"Slovenščina/Dela/Brižinski spomeniki.md","x":482,"y":-151,"width":300,"height":82},
+		{"id":"11351a1320bcb104","type":"file","file":"Slovenščina/Dela/Božanska komedija.md","x":160,"y":-270,"width":284,"height":50},
+		{"id":"9afa447fbf7ea9fa","type":"file","file":"Slovenščina/Dela/Pridiga o grehu in pokori.md","x":458,"y":-271,"width":348,"height":51},
+		{"id":"429d0ddf9a2bdfb9","x":340,"y":240,"width":400,"height":100,"type":"file","file":"Slovenščina/Obdobja/Ljudsko slovstvo.md"},
+		{"id":"503c4af37a26203a","x":440,"y":420,"width":200,"height":50,"type":"file","file":"Slovenščina/Dela/Od lepe vide.md"}
+	],
+	"edges":[
+		{"id":"4f9248b1b2edfc9d","fromNode":"e492e6cf092838c0","fromSide":"top","toNode":"af57336399d1bb17","toSide":"bottom"},
+		{"id":"a11420a5ce8c9720","fromNode":"af57336399d1bb17","fromSide":"top","toNode":"e32380ef3270eb53","toSide":"bottom"},
+		{"id":"2c25bf85832bfc42","fromNode":"e492e6cf092838c0","fromSide":"top","toNode":"15c24956b41dd1ff","toSide":"bottom"},
+		{"id":"7e4c85130fad4fbb","fromNode":"15c24956b41dd1ff","fromSide":"top","toNode":"98fc6af929389e90","toSide":"bottom"},
+		{"id":"16c41b0f6dcda0ae","fromNode":"c9ba514be1673942","fromSide":"right","toNode":"2fca4a570f307ea1","toSide":"left"},
+		{"id":"477f561052b252f7","fromNode":"e492e6cf092838c0","fromSide":"right","toNode":"2fca4a570f307ea1","toSide":"left"},
+		{"id":"7c2e864f121352d1","fromNode":"c9ba514be1673942","fromSide":"bottom","toNode":"6ec5a8d8e4ac6391","toSide":"top"},
+		{"id":"fdd91f9e8596bfab","fromNode":"c9ba514be1673942","fromSide":"bottom","toNode":"64ba7d64314714da","toSide":"top"},
+		{"id":"5ddf579b3ac2d0e4","fromNode":"6ec5a8d8e4ac6391","fromSide":"bottom","toNode":"7a9a605803bebce7","toSide":"top"},
+		{"id":"9a620334e9fddbc5","fromNode":"64ba7d64314714da","fromSide":"bottom","toNode":"c1d58355f5d3dd73","toSide":"top"},
+		{"id":"d314328009d3a9d6","fromNode":"2fca4a570f307ea1","fromSide":"top","toNode":"677619efa1c23f8b","toSide":"bottom"},
+		{"id":"1bfef8c5c8eb3e2b","fromNode":"2fca4a570f307ea1","fromSide":"top","toNode":"9b052a267283fb9b","toSide":"bottom"},
+		{"id":"e40bee1809a2c0cd","fromNode":"677619efa1c23f8b","fromSide":"top","toNode":"11351a1320bcb104","toSide":"bottom"},
+		{"id":"06923262f2409f9c","fromNode":"9b052a267283fb9b","fromSide":"top","toNode":"9afa447fbf7ea9fa","toSide":"bottom"},
+		{"id":"8ac8558a71bd274d","fromNode":"429d0ddf9a2bdfb9","fromSide":"bottom","toNode":"503c4af37a26203a","toSide":"top"}
+	]
+}
