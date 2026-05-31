@@ -1,0 +1,14 @@
+*Ena [[Anton Aškerc|Aškercevih]] zgodnejših pesmi*
+- ==Romanca - lirsko-epska pesem, pri kateri je tema pogosto zgodovinska, ljubezenska==
+- **Sporočilo:** ==Do tistih v stiski moramo biti milostni.== (sodnikova obsodba)
+- Zgodba sledi ==dramskemu trikotniku==
+- Pesem ima ==neenake kitice in nestalen ritem==
+- V pesmi izrazi svoje stališče do kriminala povezanega z revščino
+- **Pesniška sredstva**
+	- Inverzija
+	- Vzkliki
+	- Primera
+	- Retorično vprašanje
+	- Metafora
+	- Poosebitev
+- ==**Glavni motiv** ni kraja ampak sočutje==

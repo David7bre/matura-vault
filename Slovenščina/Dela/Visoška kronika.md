@@ -1,0 +1,25 @@
+*==Prvi slovensik zgodovinski roma== - začetek nedokončane trilogije*
+- Nastal na podlagi najdenih zapisov in kronike na posestvu Visoko in na podlagi Škofjeloškega arhiva
+- ==**Snov** - zgodovinska==, *sega v čas po 30 letni vonji*
+- Roman je ==kronološki== - pripoveduje o pomembnih dogodkih v kronnološkem zaporedju
+- ==**Zgradba** - analitično-sintetična==
+	- Prva polovica je analitična - retrospektivno prikazuje preteklost in razloge za dogajanje
+	- Druga polovia je sintetična - Izidorjevo življenje po očetovi smrti
+- ==**Prvoosebni pripovedovalec** - Izidor Kalan (kronist)== - pripoveduje samo o tem kar je sam videl in slišal
+- ==**Slog** - romantični realizem==
+- ==**Realistične značilnosti**==
+	- Zgodovinski dogodki *(30 letna vona, zadnje sojenje čarovnici)*
+	- Opis družbenih in narodnostnih razmer *(tudi verskih)*
+	- Realistični jezik - piše v jeziku tistega časa
+	- Vsakdanje liki - vsi moški so povprečni
+- ==**Romantične značilnosti**==
+	- Margaretina usodna ljubezen
+	- Mračna in skrivnostna preteklost Polikarpa
+	- Maščevanje
+	- Strasti
+	- Izjemne osebe - vse ženske so idealizirane
+	- Usodna naključja - Pasavarica umre ravno na Visokem
+- ==**Motivi**==
+	- Motiv umora - Kot [[Zločin in kazen]]
+	- Motiv čarovništva
+	- Motiv narodnih napetosti
