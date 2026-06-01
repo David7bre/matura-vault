@@ -66,3 +66,15 @@
 - Napev
 - prevladuje jambski ritem, vmes tudi trohejski
 - preprosta, neenako dolge kitice, verzi različnih dolžin
+
+### Saloma
+- Svetopisemske besedne zveze
+- Bogati okrasni pridevki
+- ==Degradacija== - stopnjevanje navzdol
+- ==Ton odlomka== (vzkličen)
+- Svetopisemski motivi (tisti, ki z svojimi učenci govori; babilosnka hči)
+
+### Na trgu
+- Melodična
+- refren (prvi 4 verzi 1. in 4. kitice)
+- paralelizem členov
