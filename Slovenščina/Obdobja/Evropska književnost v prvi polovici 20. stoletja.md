@@ -30,4 +30,34 @@
 - Reiner Maria Rilke - Nemčija
 - Esra Pound - Amerika
 
+#### Modernistično pripovedništvo
 
+| **Tradicionalno pripovedništvo**<br>**(tradicionalni roman)**                                   | **Moderno pripovedništvo**<br>**(moderni roman)**                                                  |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Začne se z renesanso (Don Kihot) in konča z vrhom v realizmu                                    | Roman 20. stoletja ([[Fjordov Mihajlivič Dostojevski\|Dostojevski]] - predhodnik modernega romana) |
+| Snov je svet/stvarnost z izpostavljeno človeško usodo (mimezis/mimetičnost)                     | Nemimetično - zanimanje se premakne v junakovo notranje razmišljanje                               |
+| Ima zgodbo, zgrajeno iz zaporedja dogodkov (temo razvijajo s pripovedovanjem, tudi opisovanjem) | Zgodbe ni, je pa tok zavesti (neko ponotranjeno občutje junaka) - notranji monolog                 |
+| Ima pripovedovalca - najpogostejši je tretjeosebni, vsevedni                                    | Pripovedovalec je prvoosebni, personalni                                                           |
+| Jezik je razumljiv                                                                              | Jezik je manj ali nerazumljiv                                                                      |
+
+##### Najpomembnejši predstavniki
+- Marciel Prus - Francija
+- James Jozce - Anglija
+- [[Franz Kafka]] - Nemčija
+
+Matkova tina#### Modernistična dramatika
+
+| **Tradicionalna drama**                                                                     | **Moderna drama**                              |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Od antike (prvi zapisal Aristotel) do romantike (je v verzih) in realizma (Ibsen - v prozi) | V 20. stoletju                                 |
+| Prikazuje dogajanje stvarnega sveta                                                         | Dogajanje je osredotočeno na doživljanje sveta |
+| Stopnjevano dramsko dogajanje - dramski trikotnik                                           | Krožna dramaturgija, statično dogajanje        |
+| Junaki so aktivni, ima časovni okvir, dogajanje je linearno                                 | Junaki so pasivni, dogajanje je brezčasno      |
+| Doživljanje je komično in tragično                                                          | Doživljanje je groteskno                       |
+| Smiselni dialogi in razumljiv jezik                                                         | Nejasen, nelogičen jezik (tudi razpad jezika)  |
+| Komedija, tragedija, drama                                                                  | Antidrama in absurdna drama                    |
+
+##### Najpomembnejši predstavniki
+- Gregor Bernard Shaw - Anglija
+- Bertold Brecht - Nemčija
+- Miroslav Krleža - Hrvaška
