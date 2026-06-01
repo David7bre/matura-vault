@@ -1,0 +1,13 @@
+*Največji španski moderni pesnik*
+- Bil je vsestransko nadarjen (tudi dramatik in umetnik - slikar)
+- Bil je ubit zaradi antifašizma
+- Bil iz Granade (Španija)
+- Študiral v Madridu - spozna tudi Salvadorja Dalija
+- Bil je homoseksualec - ni ga podpirala niti družina niti prijatelji, zaradi česar mu priskrbijo bivanjev Ameriki za eno leto - po tem se vrne
+- Večino časa je ustvarjal, *sodeloval tudi v gledališču (igralec, režiser, scenograf)*
+- Kljub odsvetovanju se vrne v Granado, kjer jih z antifašističnimi somišljeniki vse postrelijo in pokopljejo v skupnem grobu (ne ve se kje se nahaja)
+- Bil je prepovedan do leta 1975 - konec fašizma v Španiji
+- Njegova največje vrednost je združevanje španskega ljudskega slovstva s takratnimi modernimi evropskimi sistemi
+- Najpomembnejša pesniška zbirka - Ciganski romansero
+- V vseh pesmih prevladujejo motivi iz ciganskih ljudskih pesmi
+- Postkumno izide zbirka Pesnik v New Yourku, tudi dramsko besedilo Krvava svadba
