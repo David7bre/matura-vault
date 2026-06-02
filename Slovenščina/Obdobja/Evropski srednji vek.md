@@ -1,7 +1,7 @@
 *Od 476 do 1492 - Od propda Rimskega cesarstva do odkritja Amerike*
 ### Glavne značilnosti
 - Na kulturo vpliva vera - ==Krščanstvo== (osnova je [[Biblija]])
-- Spreminja družbena ureditev (sužnjelastništvo => fevdalizem)
+- Spreminja družbena ureditev (sužnjelastništvo → fevdalizem)
 - Ustvarjajo se prve ==univerze== (najstarejša v Boloniji - Italija)
 	- Kulturna središča: univerze in samostani
 - Osrednja vrednosta srednjega veka - ==Življenje po smrti in Bog==
@@ -18,7 +18,7 @@
 - Nastajale vse literarne zvrsti (najbolj razširjena - ==**dramatika**==)
 - Prepoved javnih predstav - dovoljene le ==kratke igre z versko tematiko==
 	- **Pasjoni**: Uprizarjanje Kristusovega trpljenja (*križev pot*)
-		- ==Povezava na [[Matkova tina|Matkovo tino]]== (njeno trpljenje)
+		- ==Povezava na [[Matkova Tina|Matkovo Tino]]== (njeno trpljenje)
 		- *==Škofjeloški pasjon==* (na vsake 6 let, letos prvič po 11 letih)
 	- **Miraklji**: Uprizarjanje Kristusovih čudežev
 	- **Misteriji**: Uprizarjanje verskih skrivnosti

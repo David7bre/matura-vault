@@ -1,0 +1,33 @@
+*Književnost med prvo in drugo svetovno vojno*
+- V Rusiji pride do revolucije. Konec 20. let je velika gospodarska kriza, ki vpliva tudi na slovence. Vse to se odraža tudi v slovenski književnosti.
+- Od 1918 je slovenščina uradni jezik
+- Dobimo prvo univerzo
+- V 30. letih usnaovljen SAZU
+- Sedež Mohorjeve družbe se preseli v Celje, *še vedno ostane tudi v Celovcu*
+- Še vedno objavljajo literarni reviji - Dom in svet, Ljubljanski zvon
+- **Prevladujoči literarni smeri**
+	- Ekspresionizem - prevladoval v 20. letih
+	- Socailni realizem - pravladoval v 30. letih
+- **Ekspresionizem**
+	- Ekspresija - iztis
+	- Občutki stiske, tesnobe, depresije, osamljenosti, odtujenosti
+	- Vsa ta občutja so posledica prve svetovne vojne
+	- **Glavna tema** - Težnja/Želja po novi/boljši družbi
+	- 3 smeri - vojna, religija, kozmični
+	- **Najpomembnejši predstavniki na slovenskem**
+		- [[Srečko Kosovel]] - lirika
+		- [[Ivan Pregelj]] - epika
+		- [[Slavko Grum]] - dramatika
+- **Socialni realizem**
+	- Nastal kot posledica zloma borze 1929
+	- Pomanjkanje, brezposelnost, izseljevanje, gibanja diktature
+	- Slog v književnosti je bil še vedno realističen
+	- Socialni se imenuje, saj izpostavlja predvsem kmečko problematiko - ==govori o malem človeku (nekom na robu družbe)==
+	- Je kritika kapitalizma
+	- **Najpomembnejši predstavniki** (prihajali so iz obrobnih pokrajin, ustvarjali predvsem v epiki)
+		- [[Lovro Kuhar - Prežihov Voranc|Prežihov Voranc]]
+		- Miško Kranjec
+		- Ciril Kosmač
+		- Anton Ingolič
+
+- Sočasno se ravije **socialistični realizem** - Izhaja iz takratne Sovietske zveze
