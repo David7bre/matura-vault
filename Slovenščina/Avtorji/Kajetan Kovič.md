@@ -1,0 +1,13 @@
+*Eden najpomembnejših pesnikov 1. skupine 1. po vojne generacije (optimisti / intimisti)*
+- Iz **Maribora**
+- Hodil na filozofsko fakulteto v Ljubljani
+- **Novinar, literarni lik, urednik**
+- ==Dobil Prešernovo nagrado==
+- Je ==**akademik - SAZU**==
+- Zelo pomemben **==prevajalec==** (Rilke v celoti, [[France Prešern|Prešernove]] nemške pesmi)
+- Lik Mačka murija
+- Pesniške zbirke:
+	- ==Pesmi štirih==
+	- Korenina vetra 61
+	- **==Labrodor==** ([[Južni otok]])
+	- Zadnja: Vse poti so
