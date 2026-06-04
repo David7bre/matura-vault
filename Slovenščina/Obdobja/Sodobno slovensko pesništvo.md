@@ -27,4 +27,15 @@
 	- [[Dane Zajc]], [[Gregor Strniša]], Veno Tavhar
 
 ##### Druga povojna generacija (60. leta)
+- V ospredju vseh pesnikov je modernizem
+- Uvajajo se tudi modernistične predstave - metaforika...
+- Uvajali so nove smeri - izme *(npr. ludizem)*
+- Pesniki - Tomaž Šalamun, Niko Grafenauer, Ervin Fritz
+##### Tretja povojna generacija (70. leta)
+- Postmodernistična poezija, ki se od modernizma razlikuje v ponovnem obujanju tradicionalnosti
+	- Pogoosta prvina je citiranje
+- Pesniki - Milan Jezih, Boris A. Novak, Svetlana Makarovič
 
+##### Četrta povojna generacija (80. leta + čas osamosvojitve)
+- Pri pesnikih se pojavi novi intimizem
+- Pesniki - Alojz Ihan, Aleš Debelak, Barbara Korum
