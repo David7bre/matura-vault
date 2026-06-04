@@ -1,0 +1,15 @@
+Eden najpomembnejših italjanskih pisateljev 2. polovice 20. stol
+Bil tudi znanstevnik
+- Srednji vek - **==medievist==** (medievistika)
+- Simboli - **==semiotik==** (semiotika)
+1980 izdal prvi roman "**==[[Ime rože]]==**" in z njim zaslovel (svetovno znan, pisal do smrti)
+Eden najboljših **==post-modernistov==**; značilnosti:
+- Drugačno razumevanje literature
+- ironični **komentarji**
+- **aluzije** (*prikrito namigovanje oz. posredno merjenje na nekoga ali kaj*)
+- Pomembna literarna postopka:
+	- **==Metafikcija==** - pisano tako, da bi lahko bilo res, vendar vemo da ni
+	- **==Medbesedilnost==** - v besedilo vstavljeno besedilo iz drugje
+Dobil častni doktorat v univerzi v Ljubljani - 2007
+Doma imel zbirko knjig 44000 izvodov
+Pomemben tudi roman **Parško pokopališče**
