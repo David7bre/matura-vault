@@ -1,0 +1,14 @@
+- Pojasnitev imena:
+	- Črna - smrt
+	- Orhideja - lepa, ekzotična
+- Junaki se morajo odločati med svojo **==vestjo, ljubeznijo in dolžnostjo==**
+- Liki so zapletene osebnosti, **notranji konflikti** niso prikazani črno beli (lepa, iskrena -> izdajalka)
+- Slog poetičen, privzdignjen, slovesen (Katarina kot žrtvev za njihov uspeh)
+- Zunanjega dogajanja **manj**, več notranje **==refleksije / razmišljanja==**
+- Kritiki zbirko zavračali, češ da potvarja zgodovino => izločen
+- **Čas:** 24ur; **Kraj:** Gozdno okolje; **En dogodek:** ==Likvidacija== / hitro vojaštvo, montirano sodišče
+- **Motivi:** erotika, lov, osmrtitev, krivda
+- **Tema:** bivanska (človekova ujetost v zgodovinski moment), ljubezenska
+- **Sporočilo:** Fant se ne odloča na podlagi ljubezni vendar dolžnosti
+	- V danem momentu se mu zdi, da dela prav
+- **Ekspresionistični motivi**: temačnost, smrt, strah; **Eksistencialistične značilnosti** (v motivu odgovornosti)
