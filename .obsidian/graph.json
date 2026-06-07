@@ -17,6 +17,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
+  "scale": 0.7735270939162974,
+=======
   "scale": 0.6423430601266218,
+>>>>>>> origin/David
   "close": true
 }
