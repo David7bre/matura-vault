@@ -1,0 +1,1 @@
+TODO - Nič nismo posebi napisali samo to kar smo skup pisali notr v zvezek za domače branje
