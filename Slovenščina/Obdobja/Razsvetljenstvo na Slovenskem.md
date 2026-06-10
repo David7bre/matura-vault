@@ -1,6 +1,6 @@
-
-### Značilnosti razsvetljenstva po svetu
 *18. stol*
+### Značilnosti razsvetljenstva po svetu
+
 ==Kulturno, idejno, miselno gibanje==
 - Izraz razsvetljenstvo uporabljali razsvetljenci sami (**iluminati**)
 - Na gibanje in literaturo vplivali
