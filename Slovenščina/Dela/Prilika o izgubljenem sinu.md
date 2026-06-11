@@ -1,4 +1,4 @@
-- ==Prilika (parabola)== - svetopisemska novozavezna zgodba, ki s primerom iz življenja ponazarja ==virski ali moralski nauk==
+- ==Prilika (parabola)== - svetopisemska novozavezna zgodba, ki s primerom iz življenja ponazarja ==verski ali moralski nauk==
 - Napisal jo ==Luka== v njegovem evangeliju
 - Z to zgodbo Jezus odgovoril na ==odčitke farazejev da se druži samo z grešniki==
 
