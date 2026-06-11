@@ -47,7 +47,7 @@ Zasnovali matematiko, fiziko, astronomijo, zgodovino in postavili **temelje knji
 		- V obeh začetek pripovedi sredi dogajanja (==In media res==)
 - ##### Grška dramatika
 	- Začetniki evropske dramatike in gledališča nasploh
-	- Razvila iz virskih obredov ==**Dioniu**== (bog veseljačenja, vina, grozdja)
+	- Razvila iz virskih obredov ==**Dionizu**== (bog veseljačenja, vina, grozdja)
 	- **Razvoj:** 
 		- **Tespis** (prvi solist) - ustvaril **monolog**
 		- **Ajshil** - dodal drugega solista, omogočil **dialog**
