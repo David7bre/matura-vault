@@ -4,7 +4,7 @@
 	- Posledica družbenega stanja
 	- Odziv na romantiko
 - Naturalizem - skrajni realizem - pol letu 1870
-- Modernizacija - pomembne odkritja
+- Modernizacija - pomembna odkritja
 	- Charles Darwin - teorija evolucije
 	- Elektrika - Tesla, Eddison
 	- Motor z notranjim izgorevanjem
