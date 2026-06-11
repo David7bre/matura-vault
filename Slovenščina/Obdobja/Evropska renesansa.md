@@ -9,7 +9,7 @@ Prelomno obdobje evropske zgodovine - je ==filozofsko umetnostno obdobje==
 		- najpomembnejši humanisti:
 			- **Erazem Rotterdamski**
 			- **Loenardo de Vinchi**
-- ==***Renesansa***== => **preporod, ponovno odkritje** ([[Antična književnost]])
+- ==***Renesansa***== → **preporod, ponovno odkritje** ([[Antična književnost]])
 	- V ospredju **posameznik**, ustvarjalci **meščani**
 	- Vračajo se antiki preko humanizma, **ohranijo posvetno izročilo**
 	- prevladujejo **posvetne** vsebine in motivi uživanja življenja

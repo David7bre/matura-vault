@@ -17,17 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "scale": 0.4581675433741307,
-=======
-  "scale": 0.6423430601266218,
->>>>>>> origin/Jost
-=======
-  "scale": 0.7735270939162974,
-=======
-  "scale": 0.6423430601266218,
->>>>>>> origin/David
->>>>>>> origin/Jost
+  "scale": 0.704482684507216,
   "close": true
 }
