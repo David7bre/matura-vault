@@ -1,4 +1,4 @@
-- **Tema:** Ljubezenska, pesniška, poetološka
+ - **Tema:** Ljubezenska, pesniška, poetološka
 - **Motiv:** Nesrečna ljubezen, hrepenenje
 - **Sporočilo:** Kljub nesrečni ljubezni ga osrečuje, da je **==ona njegova muza==**
 	- Kot [[France Prešern|Prešern]] in [[Johann Wolfgang Goethe|Goethe]]
