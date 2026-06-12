@@ -1,4 +1,4 @@
-*Verjetno nastala na koncu 16. stol*
+ *Verjetno nastala na koncu 16. stol*
 Sodi med [[William Sheakspeare|Sheakspearova]] mladostna dela
 - **==Ni izvirna==**:
 	- podobni zgodbe / pesnitve ([[Dante Alighieri|Dante]])

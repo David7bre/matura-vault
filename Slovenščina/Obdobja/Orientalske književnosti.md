@@ -5,7 +5,7 @@
 
 ### Egipčanska književnost 
 *3000 pr. nš. št., Egipt*
-- Religija: ==Staro-egiščanska religija== (politeizem)
+- Religija: ==Staro-egipščanska religija== (politeizem)
 - Sveta knjiga: ==Knjiga mrtvih==
 - Vrhunec:
 	- ==Pesem nosačev žita== (najstarejša pesem)
@@ -14,7 +14,7 @@
 ### Asirska in babilonska književnost
 *Stara malo manj kot egipčanska, na območju Mezopotamije*
 - Religija: ==Asirsko-babilonska religija== (politeizem)
-- Sveta knjiga: --
+- Sveta knjiga: /
 - Vrhunec:
 	- ==Ep o Gilgamešu== (umetnostno)
 	- ==Hamurabijev zakonik== (neumetnostno)

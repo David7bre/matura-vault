@@ -1,7 +1,7 @@
 - Napisana **1844, izdana 1848** (manj cenzure)
 - Napitnica
 - Carmen figuratum - Vsak sonet je v obliki vinske čaše
-- 8 sonetov
+- 8 kitic
 - Okvir - Prva in zadnja kitica - Napitnici
 - Ostalih 6 kitic - Politika
 - 7. kitica - najbolj mednarodna
