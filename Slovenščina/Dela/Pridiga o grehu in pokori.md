@@ -1,7 +1,7 @@
 ==Pridiga== (homilija) - pomeni prepričevanje (govorjeno besedilo)
-	- naslanja se na biblijski odlomek - **aktualizacija** (Zgodba o Adamu in Evi)
-	- Ima namen poučevati (širjenje krščanstva med pogansko slovensko ljudstvo)
-	- polliterarno besedilo - pol poučni del, pol izvirni del (pesniška sredstva)
+- Naslanja se na biblijski odlomek - **aktualizacija** (Zgodba o Adamu in Evi)
+- Ima namen poučevati (širjenje krščanstva med pogansko slovensko ljudstvo)
+- Polliterarno besedilo - pol poučni del, pol izvirni del (pesniška sredstva)
 #### Zgradba:
 Ima domišljisko zgradbo
 - ==Zasnova== - omemba Adamovega greha
@@ -29,7 +29,7 @@ Pridiga primer srednjeveške retorične / govorniške mojstrovine
 **Sporočilo:** Človek mora v življenju delati dobra dela, če pa greši se mora izpovedati.
 
 Napisana v ==**privzdignjenim / obrednim**== slogu, uporabljena slogovna sredstva:
-[[Slogovna sredstva#Pridiga o grehu in pokori]]
+[[Slovenščina/Slogovna sredstva#Pridiga o grehu in pokori|Slogovna sredstva]]
 
 ---
 

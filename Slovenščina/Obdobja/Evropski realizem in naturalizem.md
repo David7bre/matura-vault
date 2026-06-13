@@ -4,7 +4,7 @@
 	- Posledica družbenega stanja
 	- Odziv na romantiko
 - Naturalizem - skrajni realizem - pol letu 1870
-- Modernizacija - pomembne odkritja
+- Modernizacija - pomembna odkritja
 	- Charles Darwin - teorija evolucije
 	- Elektrika - Tesla, Eddison
 	- Motor z notranjim izgorevanjem
@@ -33,9 +33,9 @@
 
 #### Primerjava romantike in realizma
 
-|                                         Romantika                                          |                                              Realizem                                               |
-| :----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| Romantika                                                                                  | Realizem                                                                                            |
+| :----------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
 | Lepota,<br>Čustva,<br>Subjektivnost,<br>Domišljija,<br>Romantični junak,<br>Svetobolje<br> | Resnica,<br>Razum,<br>Objektivnost,<br>Stvarnost,<br>Povprečen človek,<br>Svet in človek se ujemata |
-|                          Prikazovanje izjemnosti in nenavadnosti                           |                               Prikazovanje vsakdanjosti in tipičnosti                               |
-|                                       Pesniški jezik                                       |                                           Vsakdanji jezik                                           |
-|                                           Lirika                                           |                                          Epika, Dramatika                                           |
+| Prikazovanje izjemnosti in nenavadnosti                                                    | Prikazovanje vsakdanjosti in tipičnosti                                                             |
+| Pesniški jezik                                                                             | Vsakdanji jezik                                                                                     |
+| Lirika                                                                                     | Epika, Dramatika                                                                                    |

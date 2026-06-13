@@ -14,7 +14,7 @@
 	- Zavednost da stvarnost in ideali nista skladna - ni svetobolja
 	- Oblike so tradicionalne
 	- Slog je novoromantičen
-	- Prva intimistična pesniška zbirka - Pesmi za pokušino (Janez Menart, [[Kajetna Kovič]], Tone Pavček, Ciril Zlobec)
+	- Prva intimistična pesniška zbirka - Pesmi za pokušino (Janez Menart, [[Kajetan Kovič]], Tone Pavček, Ciril Zlobec)
 	- Tudi Ivan Minatti - intimist
 - **Druga skupina** - pesniki pesimisti
 	- Pisali temno poezijo

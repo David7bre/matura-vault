@@ -1,6 +1,6 @@
-
-### Značilnosti razsvetljenstva po svetu
 *18. stol*
+### Značilnosti razsvetljenstva po svetu
+
 ==Kulturno, idejno, miselno gibanje==
 - Izraz razsvetljenstvo uporabljali razsvetljenci sami (**iluminati**)
 - Na gibanje in literaturo vplivali
@@ -43,7 +43,7 @@
 	- Prvič tukaj objavi tudi Vodnik
 - Prva slovenska pesniška zbirka - ==Pesmi za pokušino== ([[Valentin Vodnik]])
 - Prva slovenski komediji
-	- ==Županova Micka ==(Anton Tomaž Linhart)
+	- ==Županova Micka== (Anton Tomaž Linhart)
 	- Ta veseli dan ali Matiček se ženi (Anton Tomaž Linhart)
 
 **Področje znanosti**

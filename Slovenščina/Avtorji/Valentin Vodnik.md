@@ -1,7 +1,7 @@
 *1758 - 1819*
 - Rojen v **Zgornji Šiški sredi Ljubljane** - 1758
 - Študiral **teologijo**
-	- po poklicu **duhovnik**, delo kasneje opustil
+	- Po poklicu **duhovnik**, delo kasneje opustil
 	- Se zanimal za **filozofijo, retoriko in poetiko**
 	- Kasneje *==gimnazijski profesor slovenščine, urednik / častnikar, slovničar, slovaropisec, pesnik, avtor priročnikov==*
 - Član **==Zoisove družbe==**

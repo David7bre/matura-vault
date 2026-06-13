@@ -12,13 +12,13 @@ Napisal [[Konfucij]] (Oziroma zbral v Šiking)
 #### Vsebina
 - Vojak gre na goro, razmišlja o domu, zdi se mu, da sliši očeta
 	- Misli si kaj bi rekel če bi bil tam, ali je živ, zdrav, bolan
-	- Nemeren je dokler je sin v tujini, kdaj bo tega konec
+	- Nemiren je dokler je sin v tujini, kdaj bo tega konec
 - Ko prispe na vrh gore, se je rezjokal , ko je pomislil na mamo in svojega sina
 - na koncu pomisli na umrlega brata in si predstavlja kaj bi mu rekel
 	- Bratov duh ocenjuje dve človekovi odgovornosti; **država in domovina**
 	- Besede bratovega duha so nosilke osrednjega sporočila
 		- **==Potrebno je ohraniti srce na pravem mestu==**
-		- življenju najpomebnejša družina
+		- V življenju je najpomebnejša družina
 
 - Iti na goro pomeni ==**priti do spoznanja**== (simbolično)
 

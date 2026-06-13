@@ -5,4 +5,4 @@
 - Izjemno nadarjen, napisal več kot **==120 tragedij==**
 - Uvedel:
 	- ==**3 igralce**==
-	- Zbor z let **15 pevci** (prej veliko več)
+	- Zbor z le **15 pevci** (prej veliko več)
