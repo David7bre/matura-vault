@@ -11,7 +11,7 @@
 	8. Šele po tem bo vse dobro
 - **Tema** - življenjska, zato sodi v socialni ekspresionizem
 - **Glavni motiv** - propad kapitalizma
-- **Sporočilo** - Šele po propadu zahodne Evrope mo mogoče končno vse vredu
+- **Sporočilo** - ==Šele po propadu zahodne Evrope bo mogoče končno vse vredu==
 - **Ekspresionistične značilnosti**
 	- Vzdušje - napeto, strašljivo, tesnobno
 	- Metafore - vse je večer

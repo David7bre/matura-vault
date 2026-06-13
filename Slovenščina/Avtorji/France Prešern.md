@@ -46,7 +46,7 @@
 	- **Preproste pesniške oblike**
 	- Počasi se ==pridružuje realizmu==
 	- **==[[Zdravljica]]==**, Nezakonska mati
-	- Vrhunec - **==Poezije==** **(1846** z letnico **1487)**
+	- Vrhunec - **==Poezije==** **(1846** z letnico **1847)**
 
 #### Slog in delo
 - Pisal v slovenščini, malo v nemščini
