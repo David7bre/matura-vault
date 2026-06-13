@@ -13,6 +13,6 @@ Bil del 2. skupine 1. povojne generacije (**pesimisti**)
 	- **==Sprejet šele z 2. povojno generacijo==** (konec 60. let)
 - Pesniške zbirke:
 	- **Požgana trava** (prva)
-	- ==**Jezik Zemlje**== ([[Črni deček]])
+	- ==**Jezik iz zemlje**== ([[Črni deček]])
 	- **Dol, dol** (zadnja)
 - Pisal tudi drame (večina absurdne) - prva: Otroka reke
