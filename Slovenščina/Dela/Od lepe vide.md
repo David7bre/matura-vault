@@ -34,7 +34,7 @@ Iz **==ene stiske v drugo==** (nesrečen zakon)
 	- "zamorec" - na drugi strani morja (Mavri in Arabci živeči v Španiji)
 Ta sodi ved **==Elegične konce==**
 
-[[Slogovna sredstva#Od lepe Vide]]
+[[Slovenščina/Slogovna sredstva#Od lepe Vide|Slogovna sredstva]]
 
 ---
 

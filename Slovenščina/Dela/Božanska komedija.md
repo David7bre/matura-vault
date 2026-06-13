@@ -25,7 +25,7 @@ $$3*33 spevov + 1uvodni=100spevov$$
 - Vsak spev se konča z besedo *"Zvezde"*
 - Ritem je jambski ==enajsterec==
 
-[[Slogovna sredstva#Božanska komedija]]
+[[Slovenščina/Slogovna sredstva#Božanska komedija|Slogovna sredstva]]
 
 ---
 ## Odlomek - Gruča omahljavcev

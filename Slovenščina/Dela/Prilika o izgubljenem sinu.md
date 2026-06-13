@@ -8,7 +8,7 @@
 - ==Versko:== Mlajši sin predstavlja grešnika, ki je našel pravo pot (do boga), oče predstavlja boga, ki mu je odpustil, priden sin pa predstavlja vernike.
 - ==Moralno:== Kdor spozna svojo napako in se je pokesa je prav, da se mu tudi odpusti.
 
-[[Slogovna sredstva#Biblija]]
+[[Slovenščina/Slogovna sredstva#Biblija|Slogovna sredstva]]
 
 ---
 

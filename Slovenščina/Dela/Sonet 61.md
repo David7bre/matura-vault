@@ -16,7 +16,7 @@ Spominja se srečnega naključja, da jo je spoznal
 3. V svojeh hrepenenju kliče njeno ime
 4. Srečen ker mu daje **navdih za pisanje pesmi**
 
-[[Slogovna sredstva#Sonet 61]]
+[[Slovenščina/Slogovna sredstva#Sonet 61|Slogovna sredstva]]
 
 ---
 

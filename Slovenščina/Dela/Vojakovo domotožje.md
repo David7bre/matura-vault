@@ -22,7 +22,7 @@ Napisal [[Konfucij]] (Oziroma zbral v Šiking)
 
 - Iti na goro pomeni ==**priti do spoznanja**== (simbolično)
 
-[[Slogovna sredstva#Vojakovo domotožje]]
+[[Slovenščina/Slogovna sredstva#Vojakovo domotožje|Slogovna sredstva]]
 
 ---
 
