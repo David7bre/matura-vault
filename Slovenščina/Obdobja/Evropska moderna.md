@@ -1,4 +1,4 @@
-*1850 - 1910*
+ *1850 - 1910*
 Evropa nasičena z **obiljem** (**kapitalizem** v polnem razmahu)
 Širi se imperializem (veliki imperiji - ***Velika Britanija***)
 **==FIN DE SCIECLE==** - "konec stoletja"
