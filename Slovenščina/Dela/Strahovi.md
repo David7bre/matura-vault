@@ -11,7 +11,7 @@
 	- ==Podedovana bolezen==
 	- Pomoč pri umiranju - ==evtanazija==
 - **Sporočilo *(povezano s tezo):*** ==Posledice nesrečnega zakona so krute.==
-- **Pravilo ==torjne enotsnoti==:** 
+- **Pravilo ==trojne enotsnoti==:** 
 	- Prostor - ==salon meščanske hiše== na fjordih
 	- Čas - ==začne zjutraj in konča naslednje jutro==
 	- Dogajanje - v ospredju je ==razkritje resnice v zakonu==
