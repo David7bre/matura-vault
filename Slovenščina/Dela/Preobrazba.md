@@ -1,7 +1,7 @@
 *Moderna novela - 1915*
 - **Zgradba**
 	- Deloma tradicionalna - krajši/omejen čas, prostor in število oseb
-	- Moderna - ključni dogodek je na začetku, v ospredju je občutje Samse, pripovedovalec je tretjeosebni ampak personalni
+	- Moderna - **ključni dogodek je na začetku**, v ospredju je občutje Samse, pripovedovalec je **tretjeosebni ampak personalni**
 - **Avtobiografski motivi Gregorja Samse** *(So tudi vsi motivi Samse na sploh)*
 	- Motiv odtujenosti - Kot je [[Franz Kafka|Kafka]] bil odtujen Nemec na Češkem
 	- Bolezen - Bolan med samimi zdravniki
@@ -13,5 +13,5 @@
 	- Nadrealizem - preobrazba, ki izhaja iz sanj - zabrisana meja med sanjami in resničnostjo
 	- Eksistencializem - iskanje življenskega smisla
 	- Ekspresionizem - občutje Gregorja - nezadovolstvo, groza - glavno občutje je groteskno
-- **Glavna tema** - Preobrazba nekoga, ki želi zbežati svoji stiski - pasiven upor
-- **Sporočilo** je povezano z občutjem nekoristnosti v življenju - nekakšen beg pred odgovornostjo - edina rešitev je smrt
+- **Glavna tema** - ==Preobrazba nekoga, ki želi zbežati svoji stiski== - pasiven upor
+- **Sporočilo** je povezano z ==**občutjem nekoristnosti v življenju**== - nekakšen beg pred odgovornostjo - edina rešitev je smrt

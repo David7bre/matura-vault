@@ -2,15 +2,15 @@
 - **Dogajalni prosto** - Tolminsko
 - **Dogajalni čas** - od večerne maše v petek, do nedelje popoldan
 - Je tipična novela - krajša zgodba, kraj in čas sta omejena, malo oseb, zgradba je dramska (v smislu dramske napetosti - dramski trikotnik)
-- **Vrh** - Tina vidi mrtvega - njegovo glavo
+- **Vrh** - ==Tina vidi mrtvega== - njegovo glavo
 - Ima nepričakovan **konec** - otrok preživi, kljub njeni smrti
 - **Slog** - tipično ekspresionističen
 - **Pripovedovalec** - tretjeosebni personalni (ker je v ospredju Tina)
-- **Moderni pristop** - prepletanje dveh zgodb 
-	- Kolektivna zgodba, ki je zgodovinsko zasnovana (predstavniki kmetov so morali na obglavljanje)
-	- Tinina zgodba - Izmišljena, ampak zgodbi povezuje Janez Gradnik
+- **Moderni pristop** - prepletanje ==**dveh zgodb**== 
+	- **Kolektivna zgodba**, ki je zgodovinsko zasnovana (==predstavniki kmetov so morali na obglavljanje==)
+	- **Tinina zgodba** - Izmišljena, ampak zgodbi povezuje ==**Janez Gradnik**==
 	- Obe zgodbi imata skupen motiv - obglavitev/usmrtititev - obe sta tragični
-- Lik Matkove Tine je tipično ekspresionističen - njeno trpljenje (fizično in psihično)
+- Lik Matkove Tine je **tipično ekspresionističen - njeno trpljenje** (fizično in psihično)
 	- Njen cilj je rezitev nezakonskosti, z dotikom Janezove glave in da otrok preživi
 - Matko - Tinin oče
 	- Duševno trpljenje (tipična ekspresionistična razklanost)
@@ -18,7 +18,7 @@
 	- Ima jo neizmerno rad
 - **Ekspresionistična značilnost** - temačno vzdušje, razpetost med ljubeznijo in krivdo
 - **Značilnosti ekspresionističnega sloga**
-	- Religiozni tip ekspresionizma
+	- ==Religiozni tip ekspresionizma==
 		- Celotno pot moli in se obrača k Mariji Snežni
 		- Usmrtitev je nekoliko podobna križanju
 		- Mrtvi v rokah nekoga
@@ -28,4 +28,4 @@
 - **Sporočilnost**
 	- Versko - čoveku v najtežjih trenutkih pomaga vera
 	- Družbeno - uporabi prinašajo boljšo družbo
-	- Bivansko - vedno znama življenje pred smrtjo (otrok preživi)
+	- Bivansko - vedno zmaga življenje pred smrtjo (otrok preživi)
