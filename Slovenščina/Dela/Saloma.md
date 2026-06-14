@@ -35,7 +35,7 @@
 	- V svoji naveličanosti osvaja Johanaana
 		- Želi poljubiti njegovo ==***odsekano glavo***== - prinesejo ji jo na pladnju
 - **Johanaan** (Janez Krstnik) - jetnik
-	- Prerok, javno napadakraljevi par in njuno **nemoralno zvezo**
+	- Prerok, javno napada kraljevi par in njuno **nemoralno zvezo**
 	- Kot zapornika se vanj zaljubi Saloma, **zavrne jo**
 - **Herod** - Judovski vladar, razkošno življenje
 	- Njegova žena je **bratova udova** (greh)

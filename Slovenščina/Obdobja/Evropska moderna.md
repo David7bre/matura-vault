@@ -47,7 +47,6 @@ Moderne smeri se začnejo v **==Franciji==**
 	- Izražajo se s simboli, znamenji
 - Najpomembnejša estetika je **==lepota==**
 	- Vse vzbuja občutek ugodja in lepote - ==**Larpurlatizem**==
-		%% TODO: Zakaj ima tule larpurlatizem drugo definicijo kot uzgori %%
 - ***Zavračanje dekadence***, hkrati realizem
 - Umetnost - elitna, nejasna, dvoumna za večina bralcev (**==Hermetična književnost==**)
 

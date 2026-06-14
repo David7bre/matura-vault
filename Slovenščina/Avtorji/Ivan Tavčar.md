@@ -2,7 +2,7 @@
 - ==Iz vasi v Poljanski dolini==
 - Po poklicu je bil ==uspešen odvetnik s svojo pisarno==
 - Bil je ==ljubjanski župan, deželni in državni poslanec==
-- Poročen z najbogatejšo ljubljansko dedkinjo - skupaj kupita Visoko
+- Poročen z najbogatejšo ljubljansko dedinjo - skupaj kupita Visoko
 - Bil je ==pisatelj romanov, povesti, novel *in tudi značajevk*
 ==- **Najbolj znana dela**
 	- ==[[Visoška kronika]]==
