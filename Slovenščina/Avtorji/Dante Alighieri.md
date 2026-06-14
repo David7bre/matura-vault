@@ -5,7 +5,7 @@ Najpomembnejši Italijanski srednjeveški pesnik
 	- Odšel skupaj z družino - Imel 4 otroke
 - Eden najbolj ==izobraženih== ljudi tistega časa
 - Pisal ljubezenska dela v [[Sladki novi slog|sladkem novem slogu]]
-	- Celo življenje le ==enemu dekletu== - Beatrice (Katulska) - TODO (katulska lirika link)
+	- Celo življenje le ==enemu dekletu== - Beatrice (Katulska)
 - Umrl in pokopan v ==Raveni== (1321)
 - Najpomembnejši deli sta Novo življenje (*Zbirka pesmi*) in [[Božanska komedija]]
 - Vplival na [[France Prešern|Prešerna]] ([[Krst pri Savici#Uvod]])

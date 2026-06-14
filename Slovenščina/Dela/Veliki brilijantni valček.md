@@ -1,23 +1,23 @@
 *Absurdna drama - 1985*
 - Uprizorjen še istega leta 
 - Je tridejanka s klasično zgodbo - trojna enotnost
-- Prikaže enopartijski sistem in obvladovalce takratne države
-- **Kraj dogajanja** - Psihiatrični zavod Svoboda osvobaja
-- **Glavno dejanske** je onesposobiti Simona Vebra (30 let zaposlen na inštitutu za zgodovino, raziskuje Poljske vstajnike - Drohojovski, ki je pribežal na gorenjsko, bil ranjen in obležal v jarku - zato mu odrežejo nogo - ker ga je raziskoval ga zaprejo v Svoboda osvobaja)
+- Prikaže ==enopartijski sistem in obvladovalce takratne države==
+- **Kraj dogajanja** - Psihiatrični zavod **Svoboda osvobaja**
+- **Glavno dejanske** je onesposobiti ==**Simona Vebra**== (30 let zaposlen na inštitutu za zgodovino, raziskuje Poljske vstajnike - **Drohojovski**, *(ki je pribežal na gorenjsko, bil ranjen in obležal v jarku - zato mu odrežejo nogo)* - ker ga je raziskoval ga zaprejo v Svoboda osvobaja)
 - Odlomek je dramski
-- Volodja
+- **Volodja**
 	- Bolničar v zavodu
-	- Delje zmedeno
+	- Deluje zmedeno
 	- Misli da je glavni
 	- Nekoliko norčav
 	- Ima ljubico, ki zna angleško
 	- Daje vtis pacienta, zaradi čudnega obnašanja od samega začetka
-- Je absurdna moderna drama
-	- Izpostavljen je zaprt, brezizhoden položaj oseb, ki niso pacienti ampak jih je zaprl takratni politični režim
-	- Prikazan je svet absurda - Volodja v resnici upravlja vse
-	- Vrhunec je v amputaciji zdrave Simonove noge, s čemer ga tudi mentalno zlomijo - začne govoriti poljsko - naravna obramba - dela se norega, da bi ga pustili pri miru
-	- Ima tudi groteskne značilnosti
+- Je ==absurdna moderna drama==
+	- Izpostavljen je zaprt, **brezizhoden položaj oseb**, ki niso pacienti ampak jih je zaprl takratni politični režim
+	- Prikazan je **svet absurda** - Volodja v resnici upravlja vse
+	- Vrhunec je v **amputaciji zdrave Simonove noge**, s čemer ga tudi mentalno zlomijo - začne govoriti poljsko - naravna obramba - **dela se norega, da bi ga pustili pri miru**
+	- Ima tudi **groteskne** značilnosti
 - Večplastnost/večsporočilnost drame
-	- Kritika totaliziranega režima - odstrani se vse posameznike, ki lahko ogrozijo obstoj totalitarizma
-	- Spoznanje, da je svet norišnica, kjer vladajo posamezniik za lastne interese
+	- ==**Kritika totaliziranega režima**== - odstrani se vse posameznike, ki lahko ogrozijo obstoj totalitarizma
+	- Spoznanje, da je ==svet norišnica, kjer vladajo posamezniik za lastne interese==
 	- Skladbo valčka Volodja razvrednoti - raznolikost cenjenjna umetnosti
