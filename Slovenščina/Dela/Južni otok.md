@@ -15,7 +15,7 @@ Večina motivov je **simbolnih**
 1. Imamo nek smisel, ki se zaradi našega neznanega, nepredvidljivega življenja zdi daleč
 2. Smisel tako hitro najdemo kot ga tudi izgubimo
 3. Ob bolešinah v našem življenju se zdi, da smisla ni
-4. Ko nimam smisla  nimamo nič svetlega, smo na dnu
+4. Ko nimamo smisla nimamo nič svetlega, smo na dnu
 5. Ob naši življenski poti se spet najde neko upanje, ki nam povrne smisel
 
 ---

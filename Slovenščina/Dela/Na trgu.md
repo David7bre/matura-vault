@@ -15,7 +15,7 @@
 - **Sporočilo:** Ljubezen povzroča nemir ne pa trpljenja
 	- Anakreotika ([[Antična književnost|Anakreon]])
 
-[[Slogovna sredstva#Na trgu]]
+[[Slovenščina/Slogovna sredstva#Na trgu|Slogovna sredstva]]
 
 --- 
 

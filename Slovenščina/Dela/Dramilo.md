@@ -12,7 +12,7 @@
 	- (dolgi verzi) amfibraška stopica
 	- (kratki verzi) daktilski (isti ritem s prestopom)
 	
-[[Slogovna sredstva#Dramilo]]
+[[Slovenščina/Slogovna sredstva#Dramilo|Slogovna sredstva]]
 
 ---
 

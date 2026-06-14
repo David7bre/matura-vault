@@ -1,4 +1,4 @@
-*1850 - 1910*
+ *1850 - 1910*
 Evropa nasičena z **obiljem** (**kapitalizem** v polnem razmahu)
 Širi se imperializem (veliki imperiji - ***Velika Britanija***)
 **==FIN DE SCIECLE==** - "konec stoletja"
@@ -21,13 +21,13 @@ Moderne smeri se začnejo v **==Franciji==**
 	- Preko doživetij, občutij
 	- Zaradi **notranje lepote**
 - Umetnike zanima njegova ==notranjost==, razpoloženje
-- Vrednote romantike => ==*svetobolje*==
+- Vrednote romantike → ==*svetobolje*==
 	- Od nje se razlikuje v metaforah, zdaj pred vsem **==narava==**  
 	- ***Presega intenzivnost čustvovanja*** (življenjsko usodna ljubezen)
 - Bogat in zelo ***muzikalen slog*** (speven)
 
 ##### Dekadenca
-- Pomeni **==propad==** (*Dekadent => propadel človek*)
+- Pomeni **==propad==** (*Dekadent → propadel človek*)
 - **Izjemen** posameznik (***telesno in čutno***)
 	- Na zunanje čutne držljaje skoraj ***preobčutljiv***
 - ***Zavračanje in rušenje*** drugih vrednot
@@ -38,12 +38,12 @@ Moderne smeri se začnejo v **==Franciji==**
 - Dekadenti so **==pesimisti==**
 
 ##### Simbolizem
-- ==**Simbol**== => konkretna podoba za nek pojem
+- ==**Simbol**== → konkretna podoba za nek pojem
 - Simbolisti ponavadi svojih simbolov **ne pojasnjujejo**
 - Izjemni posamezniki
 	- Zaradi iskanja **samozavedanja svojih zmožnosti** in iskanja **globje ali višje resničnosti**
 - Umetnik skuša odkriti od kot ***svet idej, odkriti podzavest, sanj, mistična doživljanja***
-	- ==**Metafizika **==- Vse kar izhaja iz nevnovnega sveta
+	- ==**Metafizika**== - Vse kar izhaja iz nevnovnega sveta
 	- Izražajo se s simboli, znamenji
 - Najpomembnejša estetika je **==lepota==**
 	- Vse vzbuja občutek ugodja in lepote - ==**Larpurlatizem**==
@@ -66,7 +66,7 @@ Moderne smeri se začnejo v **==Franciji==**
 
 #### Literarne zvrsti
 - **Lirika** (najpomembnejša - subjektivnost)
-	- ==**Zavraša tradicionalnost**== (metaforika, ritmika...)
+	- ==**Zavrača tradicionalnost**== (metaforika, ritmika...)
 	- ==Svobodni== verz, ritem, rime (skoraj ni), kitice
 	- Pesem v prozi
 - **Dramatika** (druga najpomembnejša - subjektivnost, mnenje)
