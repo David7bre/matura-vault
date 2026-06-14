@@ -1,10 +1,23 @@
 *1830 - 1880*
 *Pri nas po letu 1850*
-- Realizem - stvarnot, resničnost
+- ==**Realizem**== - stvarnot, resničnost
 	- Posledica družbenega stanja
 	- Odziv na romantiko
-- Naturalizem - skrajni realizem - pol letu 1870
-- Modernizacija - pomembne odkritja
+	- **Prikazovanje resnice**
+- ==**Naturalizem**== - skrajni realizem - pol letu 1870
+	- **Družbeno dno** - alkoholizem, prostitucija, kriminal, revščina
+		- Junaki iz nižjega sloja - temu primiren slog
+	- Prvič se pojavi **estetika grdega** - ==**Groteska**==
+	- Slog fotografsko natančen
+	- Književne zvrsti:
+		- **Epika** glavna:
+			- realistični, eksperimentalni romani, povesti, novele
+			- balade in romance (zgodbe z lirskimi značilnostmi)
+		- **Dramatika**
+			- **Družbeno kritične drame**
+			- **==tezna drama==**
+		- **Lirika** skromna
+- ==Modernizacija== - pomembne odkritja
 	- Charles Darwin - teorija evolucije
 	- Elektrika - Tesla, Eddison
 	- Motor z notranjim izgorevanjem
@@ -12,10 +25,10 @@
 
 ##### Realistične smeri
 - Romantični realizem
-- Objektivni realizem
+- ==Objektivni realizem==
 - Socialni realizem
-- Psihološki realizem
-- Kritični realizem
+- ==Psihološki realizem==
+- ==Kritični realizem==
 
 ##### Predstavniki
 - Rusija

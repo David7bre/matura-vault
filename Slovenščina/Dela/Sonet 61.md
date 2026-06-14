@@ -1,4 +1,4 @@
- - **Tema:** Ljubezenska, pesniška, poetološka
+- **Tema:** Ljubezenska, pesniška, poetološka
 - **Motiv:** Nesrečna ljubezen, hrepenenje
 - **Sporočilo:** Kljub nesrečni ljubezni ga osrečuje, da je **==ona njegova muza==**
 	- Kot [[France Prešern|Prešern]] in [[Johann Wolfgang Goethe|Goethe]]
@@ -16,7 +16,7 @@ Spominja se srečnega naključja, da jo je spoznal
 3. V svojeh hrepenenju kliče njeno ime
 4. Srečen ker mu daje **navdih za pisanje pesmi**
 
-[[Slogovna sredstva#Sonet 61]]
+[[Slovenščina/Slogovna sredstva#Sonet 61|Slogovna sredstva]]
 
 ---
 

@@ -17,7 +17,7 @@ Veleumni plemil iz Manče
 | ---------------- | --------------- |
 | velik in suh     | majhen in debel |
 | idealist         | realist         |
-| duhocno bogastvo | materialist     |
+| duhovno bogastvo | materialist     |
 
 - **==Donkihotovstvo==** - plemeniti idealizem
 	- ravnanje ne za svoje dobro, vendar lepši in pravičnejši svet

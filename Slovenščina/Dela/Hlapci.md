@@ -1,5 +1,5 @@
 *Ena izmed najodmevnejših in za tisti čas najbolj ==spornih dram==*
-Izdana leta ==**1909**== - do oprizoritve ***ni prišlo***
+Izdana leta ==**1909**== - do uprizoritve ***ni prišlo***
 - **==1919==** - Po njegovi smrti prvič uprizorjena (***Pariz***)
 Na snov vplivale volitve (**zmaga klerikalcev**)
 - V časopisu "Slovenec" pisali, da se morajo učitelji prilagoditi
@@ -8,7 +8,7 @@ Drama ima klasično zgradbo
 **Kraj:** Slovensko podeželje 
 **Snov:** Položaj učitelja po volitvah
 **Glavna problematika:** hlapčevsko brez značajno obnašanje učiteljev
-- **==Opurtonistično==** - prilagajoč sebi v prid
+- **==Oportunistično==** - prilagajoč sebi v prid
 **Sporočilo:** Slovenci nesmemo biti hlapčevski, inteligenca se nesme podrejati, vendar misliti z svojo glavo
 Drama ima zunanji in notranji konflikt:
 - **Zunanji:** Nasprotje med klerikalno oblastjo in **==naprednim izobražencem (Jerman)==** ter ==**delavcem (Kalander)**==

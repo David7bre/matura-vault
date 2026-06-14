@@ -1,15 +1,15 @@
 *Rojen 1959 v Ljubljani*
-- Končal je študij režije
-- Po diplomi se je izpopolnjeval v Londonu
+- Končal je **študij režije**
+- Po diplomi se je **izpopolnjeval v Londonu**
 - Danes opravlja tri vloge
 	- Dramski pisec
 	- Režiser
 	- Profesor režije na AGRFT
-- Na njegovo ustvarjanje sta deloma plivala Harold Pinter in Dominik Smole
+- Na njegovo ustvarjanje sta deloma plivala ==Harold Pinter in Dominik Smole==
 - Večino svojih dram je režiral sam
 	- Izganjalci hudiča
 	- Slastni mrlič
 	- [[Vladimir]]
 	- Sence v očesu
-- Eden redkih slovenskih dramatikov, ki se je prebil na tuje odre
-- V dramskih delih se ukvarja s problemi urbanega življenja
+- Eden redkih slovenskih dramatikov, ki se je **prebil na tuje odre**
+- V dramskih delih se ukvarja s ==**problemi urbanega življenja**==

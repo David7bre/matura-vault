@@ -45,7 +45,7 @@ Delimo tri obdobja:
 		- Čas dramskega razcveta
 			- **==[[Hlapci]]==**
 			- Za narod in blagor...
-	- Nastal znameniti essej: **==Slovenci in Jugoslovani==**
+	- Nastal znameniti esej: **==Slovenci in Jugoslovani==**
 - ==**Pozno obdobje**== (1909 - 1918)
 	- Ne ukvarja se več z politiko
 	- Opustil družbenokritične teme

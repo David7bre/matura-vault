@@ -14,7 +14,7 @@
 - **Romantičnost:** Povezava narave z ljubeznijo
 - **Sporočilo:** Ljubezen je inspiracija za pisanje.
 
-[[Slogovna sredstva#Majska pesem]]
+[[Slovenščina/Slogovna sredstva#Majska pesem|Slogovna sredstva]]
 
 --- 
 

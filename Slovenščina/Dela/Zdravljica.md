@@ -1,3 +1,4 @@
+- Napisana **1844, izdana 1848** (manj cenzure)
 - Napitnica
 - Carmen figuratum - Vsak sonet je v obliki vinske čaše
 - 8 kitic

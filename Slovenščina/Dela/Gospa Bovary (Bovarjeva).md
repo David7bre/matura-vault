@@ -1,4 +1,4 @@
-Glavna junakinja **Ema Bovary**
+ Glavna junakinja **Ema Bovary**
 - Ob branju romantičnih romanov se je **==bovarizirala==** 
 	- *Kar je v knjigi želi, da bi bilo in doživlja, kot da bi bilo resnično* - podobno [[Don Kihot|Don Kihotu]]
 - Oče pogat posestnik, samostanska šola, na skrivaj brala, očeta zdravil mlad zdravnik, vanj se zaljubi, nista imela dobre zveze, zaradi žalosti je zbolela

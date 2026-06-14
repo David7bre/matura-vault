@@ -13,7 +13,7 @@
 	- Bogat pesniški slog
 - *Upoštevana trojna enotnost:*
 	- *Pred Herodovo palačo*
-	- *v enem večeru*
+	- *V enem večeru*
 	- *Dejanje: Salomina želja poljubiti Johanaana*
 	
 ##### Značilnosti modernih smeri:
@@ -47,7 +47,7 @@
 	- Vojaško izobražen
 	- **Zaljubljen v Salomo**
 
-[[Slogovna sredstva#Saloma]]
+[[Slovenščina/Slogovna sredstva#Saloma|Slogovna sredstva]]
 
 ---
 

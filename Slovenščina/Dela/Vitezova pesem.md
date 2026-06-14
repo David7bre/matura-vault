@@ -1,7 +1,7 @@
-*[[Federico Garcia Lorca|Lorca]] jo posveti Španskemu baročnemu pesniku L. Gnongori, ki je umrl v Cordovi*
+*[[Federico Garcia Lorca|Lorca]] jo **posveti Španskemu baročnemu pesniku ==L. Gnongori==, ki je umrl v ==Cordovi==***
 - Pesem je lirska - lirski subjekt se izpoveduje
-- Lirski subjekt je prvoosebni, vendar ni pesnik sam, ampak vitez (jezdec)
-- Imenujemo jo vložena pesem - pesem vložnica
+- Lirski subjekt je prvoosebni, vendar **ni pesnik sam, ampak vitez (jezdec)**
+- Imenujemo jo vložena pesem - ==**pesem vložnica**==
 - **Glavni motiv** - slutnja smrti
 - **Kitice**
 	- Prva in zadnja predstavljata neke vrste okvir
@@ -16,7 +16,7 @@
 	- Simbolizem - rdeča luna
 	- Ekspresionizem - notranja stiska zaradi slutnje smrti
 	- Nadrealizem - slutnja smrti
-	- Modernizem - šibka povezanost med posameznimi motivi, nominalni slog (v povedih ni glagolov/odsotnost osebnih glagolskih oblik)
+	- Modernizem - šibka povezanost med posameznimi motivi, **nominalni slog** (v povedih ni glagolov/odsotnost osebnih glagolskih oblik)
 	- Tok zavesti - cilj, slutnja smrti
 	- Oblika - Različno dolge kitice
 - **Pesniška sredstva** - inverzija, okrani pridevki, stopnjevanje, nominalni slog/nominalizacija, ponavljanje, poosebitev, nasprotje, vzklik v anaforah

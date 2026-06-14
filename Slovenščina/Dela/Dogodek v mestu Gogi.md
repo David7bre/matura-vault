@@ -3,10 +3,10 @@
 - Dvodejanka - ni členjena na prizore in zelo obsežne epske didaskalije
 - **Dogajalni prostor** - predel manjšega mesta Goga
 - **Dogajalni čas** - en dan, ki se potegne v noč
-- Sestavljena je iz različnih zgodb, kjer vsi čakajo na nek dogodek
-- Prebivalci so patološke osebe (bolane) - vsi so na svoj način travmatizirani
+- Sestavljena je ==**iz različnih zgodb, kjer vsi čakajo na nek dogodek**==
+- Prebivalci so **patološke osebe (bolane)** - vsi so na svoj način travmatizirani
 - **Glavna junakinja** - Hana - od mladih let jo je posiljeval Prelih (pomočnik trgovca)
-- Z vsemi čudnimi imeni [[Slavko Grum|Grum]] prekrije imena svojih pacientov
+- ==Z vsemi čudnimi imeni [[Slavko Grum|Grum]] prekrije imena svojih pacientov==
 - **Osebe**
 	- Klikot - zaljubljen v Hano
 	- Dve sestri - Afra in Tarbula - nadležni starki - neizživeti v ljubezni
@@ -16,8 +16,8 @@
 	- Naddoktar - mrtev, ampak kot duh hodi po mestu in išče ženo, ki jo je pustil za sabo (žena ima alzheimerja)
 
 #### Odlomek
-- Predstavlja vrh drame - Hana se sooči s svojim posiljevalcem
-- Ob dogodku so vsi nemirni, čeprav se za njih dejansko ni zgodilo nič
+- Predstavlja vrh drame - ==Hana se sooči s svojim posiljevalcem==
+- Ob dogodku so **vsi nemirni**, čeprav se za njih dejansko ni zgodilo nič
 - **Klasičen dramski trikotnik**
 	- Zasnova - Hanin prihod v Gogo na očetovo dejanje
 	- Zaplet - Ko jo Prelih poizkusi ponovno posiliti
@@ -25,11 +25,11 @@
 	- Razplet - Prebivalci se pogovarjajo o njihovi slutnji o dogodku
 	- Razsnova - Položaj oseb na odru je isti kot na začetku, razen Hane
 - **Značilnosti moderne drame**
-	- Krožna dramaturgija - začetni položaj in stanje so enaki kot na začetku
-	- Osebe so statične  - nihče ne naredi nič za spremembo svojega življenja, razen Hane
+	- ==**Krožna dramaturgija**== - začetni položaj in stanje so enaki kot na začetku
+	- **Osebe so statične**  - nihče ne naredi nič za spremembo svojega življenja, razen Hane
 	- Prikazuje notranje doživljanje oseb
-	- Zgradba drame je mozaične - sestavljena iz različnih zgodb
+	- Zgradba drame je ==**mozaične - sestavljena iz različnih zgodb**==
 - Drama je tipično ekspresionistična z grotesknimi motivi - junaki imajo notranje stiske, njihova razdvojenost, temačnost
-- Zasledimo lahko ekspresionizem, nadrealizem (podoba naddohtarja, ki hodi po mestu kot duh), simbolizem(hiše brez sprednjih sten, nagnjene čez ulico)
-- **Sporočilo** - Človek sam s svojo dejavnostjo oblikuje svoje življenje
+- Zasledimo lahko **ekspresionizem, nadrealizem** (podoba naddohtarja, ki hodi po mestu kot duh), **simbolizem**(hiše brez sprednjih sten, nagnjene čez ulico)
+- **Sporočilo** - ==**Človek sam s svojo dejavnostjo oblikuje svoje življenje**==
 	- Psihološko - Človek se mora s svojimi travmami soočiti

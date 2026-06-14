@@ -4,7 +4,7 @@ Najbolj znana [[Sofoklej|Sofoklova]] tragedija
 - **Tema:** Družbena
 - **Motiv:** Antigonin pokop brata
 - **Sporočilo:** Vsi zavezani upoštevati državne in moralne zakone
-	- **==večni (moralni) zakoni so nad državnimi==**
+	- **==Večni (moralni) zakoni so nad državnimi==**
 	- Kakorkoli se odločimo je katastrofa neizbežna
 - ==**Antigona in Kreon sta tragična lika**==
 - **Trojna enotnost**:

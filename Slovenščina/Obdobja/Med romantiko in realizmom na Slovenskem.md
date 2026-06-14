@@ -40,7 +40,7 @@
 - Med zvrstmi se najbolj razvije **epika** (romani, povesti, značajevke)
 	- Razvije se tudi episko pripovedništvo ([[Anton Aškerc]])
 - Lirike je manj, ni pa nepomembna (Simon Gregorčič)
-- Dramatike skoraj da ni *(Pizkusi Levstik s Tugomerjem, vendar ne konča)*
+- Dramatike skoraj da ni *(Poizkusi Levstik s Tugomerjem, vendar ne konča)*
 - **Glavni predstavniki:**
 	- Pripovedništvo
 		- Fran Levstik
