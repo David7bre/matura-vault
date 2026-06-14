@@ -5,9 +5,9 @@
 		- ***Opeval ljubezen do resnične ženske (intimna čustva - takrat to tabu), v obliki soneta, nesrečna ljubezen***
 - Po izobrazbi pravnik
 - Zaslovel v svojem času (naziv kralja pesništva)
-- Pesniška muza bila ==**Laura**== (pomeni zlato, lovor => simbol uspeha)
+- Pesniška muza bila ==**Laura**== (pomeni zlato, lovor → simbol uspeha)
 	- 6. 4. 1327 - Jo srečal v cerkvi in se na smrt zaljubil 
-- Pisal prozo v latinščini => eden prvih ==humanistov==
+- Pisal prozo v latinščini → eden prvih ==humanistov==
 - Poezijo pisal v italjanščini (kot [[Dante Alighieri|Dante]])
 	- Pravtako pisal v **==sladko novem slogu==**
 - ***Trubadurska lirika** - nežna, mogoče neuresničljiva ljubezen*

@@ -45,7 +45,7 @@
 - James Jozce - Anglija
 - [[Franz Kafka]] - Nemčija
 
-Matkova tina#### Modernistična dramatika
+#### Modernistična dramatika
 
 | **Tradicionalna drama**                                                                     | **Moderna drama**                              |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------- |

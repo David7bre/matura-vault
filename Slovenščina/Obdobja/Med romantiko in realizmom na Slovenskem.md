@@ -1,5 +1,5 @@
 *Literarno/Književno obdobje*
-*1848 (Marčna revolucija) - 1899 ([[Ivan Cankar|Cankarjeva]] Erotika, ŽupančičevaČaša opojnosti)*
+*1848 (Marčna revolucija) - 1899 ([[Ivan Cankar|Cankarjeva]] Erotika, Župančičeva Čaša opojnosti)*
 - Vsebinske in oblikovne značilnosti romantike pod vplivom realizma izginjajo
 - **Marčna revolucija pripomore razvoju slovenske književnosti**
 	- Odprava cenzure *(razmah časopisov)*
@@ -40,7 +40,7 @@
 - Med zvrstmi se najbolj razvije epika (romani, povesti, značajevke)
 	- Razvije se tudi episko pripovedništvo ([[Anton Aškerc]])
 - Lirike je manj, ni pa nepomembna (Simon Gregorčič)
-- Dramatike skoraj da ni *(Pizkusi Levstik s Tugomerjem, vendar ne konča)*
+- Dramatike skoraj da ni *(Poizkusi Levstik s Tugomerjem, vendar ne konča)*
 - **Glavni predstavniki:**
 	- Pripovedništvo
 		- Fran Levstik

@@ -16,5 +16,5 @@
 *Izdana 6 let po koncu vojne, ko so zmagovalci že pisali zgodovino*
 - Odčitek da ==**potvarja zgodovino**==
 	- Junaki so v teh zgodbah intelektualci, ki niso heroji vendar ljudje z vestjo, občutki  
-- preplet vodilnih motivov "strah" in "pogum"
+- Preplet vodilnih motivov "strah" in "pogum"
 - **Tema:** bivanska (vprašanje vesti in prevzemanje odgovornosti)

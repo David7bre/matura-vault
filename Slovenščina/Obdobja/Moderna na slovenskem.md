@@ -1,5 +1,5 @@
 *Od 1899 (Cankar - Erotika; Župančič - Čaša opojnosti)*
-*Do 1918 (Konec 1. svetovne vojne; smrt Cankarja*
+*Do 1918 (Konec 1. svetovne vojne; smrt Cankarja)*
 - Subjektivnost, nasprotje [[Evropski realizem in naturalizem|realizmu]], vse štiri smer [[Evropska moderna|moderne]]
 - Pomen obdobja:
 	- ==*Drugi vrh slovenske besedne umetnosti*==

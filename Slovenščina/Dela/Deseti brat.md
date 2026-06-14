@@ -12,7 +12,7 @@
 		- ==Ljubezenska zgodba== met Lovretom Kvasom in grajsko hčero Manico s Slemenice
 		- ==Zgodba o Martinku spaku==, ki se izdaja za desetega brata
 	- ==Prepletanje dveh okolij==
-		- ==Vško okolje== - tradicionalno življenje slovencev takrat
+		- ==Vaško okolje== - tradicionalno življenje slovencev takrat
 		- ==Grajsko okolje== - moderno življenje po evropskih standardih
 	- ==Prepletanje dveh jezikovnih zvrsti==
 		- ==Preprost ljudski jezik==
