@@ -7,7 +7,7 @@
 - **Slog** - tipično ekspresionističen
 - **Pripovedovalec** - tretjeosebni personalni (ker je v ospredju Tina)
 - **Moderni pristop** - prepletanje ==**dveh zgodb**== 
-	- **Kolektivna zgodba**, ki je zgodovinsko zasnovana (==predstavniki kmetov so morali na obglavljanje==)
+	- **Kolektivna zgodba**, ki je zgodovinsko zasnovana (==predstavniki kmetov so morali na obglavljanje==; **kmečki upori**)
 	- **Tinina zgodba** - Izmišljena, ampak zgodbi povezuje ==**Janez Gradnik**==
 	- Obe zgodbi imata skupen motiv - obglavitev/usmrtititev - obe sta tragični
 - Lik Matkove Tine je **tipično ekspresionističen - njeno trpljenje** (fizično in psihično)
@@ -23,7 +23,7 @@
 		- Usmrtitev je nekoliko podobna križanju
 		- Mrtvi v rokah nekoga
 		- Otrokovo preživetje - na nek način vstajenje
-		- Vse našteto so velikonočni motivi
+		- Vse našteto so ==velikonočni motivi==
 	- Kontrasti - Matko in Tina
 - **Sporočilnost**
 	- Versko - čoveku v najtežjih trenutkih pomaga vera
