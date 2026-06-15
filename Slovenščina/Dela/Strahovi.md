@@ -1,5 +1,5 @@
 *==Tezna drama== iz 1881 - je ==odgovor na predhodnje skritizirano dramo Nora ali Hiša lutk==*
-- **Teza strahov:** ==Če žena ustraja v nesrečnem zakonu so posledice pogubne, ne le za zahonca, ampak tudi za otroka.==
+- **Teza strahov:** ==Če žena ustraja v nesrečnem zakonu so posledice pogubne, ne le za zakonca, ampak tudi za otroka.==
 - "Strahovi" - povezano s strahom pred preteklostjo, in da bi se slabe stvari ponovile.
 - Upoštevano je pravilo torjne enotnosit.
 

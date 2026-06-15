@@ -8,7 +8,7 @@ Eden največjih književnikov vseh časov
 - Zaradi ==**šibkejše izobrazbe**== se pojavlja **==sheakspearjansko vprašanje==**
 	- Ali je on sploh avtor vseh del
 	- Kljub temu se mu vsa pripisujejo
-- **24. 4. 1616** - Umre (verjetno rojstni dan, *kdo bo več spil*), Isti dan kot [[Miguel De Cervantes|Cervantes]]
+- **23. 4. 1616** - Umre (verjetno rojstni dan, *kdo bo več spil*), Isti dan kot [[Miguel De Cervantes|Cervantes]]
 
 V svoji dramatiki upodobil predvsem enkratne (močne) osebnosti
 Slikovit jezik, vplival na kasneješ avtorje (Linhart, Levstik, Oton Župančič)

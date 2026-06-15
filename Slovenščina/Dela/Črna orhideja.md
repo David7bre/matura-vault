@@ -2,10 +2,10 @@
 	- Črna - smrt
 	- Orhideja - lepa, ekzotična
 - Junaki se morajo odločati med svojo **==vestjo, ljubeznijo in dolžnostjo==**
-- Liki so zapletene osebnosti, **notranji konflikti** niso prikazani črno beli (lepa, iskrena -> izdajalka)
+- Liki so zapletene osebnosti, **notranji konflikti** niso prikazani črno beli (lepa, iskrena → izdajalka)
 - Slog poetičen, privzdignjen, slovesen (Katarina kot žrtvev za njihov uspeh)
 - Zunanjega dogajanja **manj**, več notranje **==refleksije / razmišljanja==**
-- Kritiki zbirko zavračali, češ da potvarja zgodovino => izločen
+- Kritiki zbirko zavračali, češ da potvarja zgodovino → izločen
 - **Čas:** 24ur; **Kraj:** Gozdno okolje; **En dogodek:** ==Likvidacija== / hitro vojaštvo, montirano sodišče
 - **Motivi:** erotika, lov, osmrtitev, krivda
 - **Tema:** bivanska (človekova ujetost v zgodovinski moment), ljubezenska
