@@ -5,7 +5,7 @@
 
 #### Odlomek: Osvaldov strah
 - **Snov:** ==Družinska problematike== [[Henrik Ibsen|Ibsnove]] sobodbnosti
-- **Tema:** Zalgansot zakone in položaj ženske (je ==družbeno kritična==)
+- **Tema:** Zlagansot zakona in položaj ženske (je ==družbeno kritična==)
 - **Pomembni motivi:**
 	- ==Nezvestoba== v zakonu
 	- ==Podedovana bolezen==

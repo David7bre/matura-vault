@@ -1,7 +1,7 @@
 *Osebno izpovedna, intimistična, **brezosebni lirski subjekt***
 - Spada med **==refleksivne==** (nam da misliti)
 - Zasledimo lahko različna čustva (zadovoljstvo, negotovost, slutnja, obup, upanje)
-- **Tema.** bivanska (iskanje smisla)
+- **Tema:** bivanska (iskanje smisla)
 - **Sporočilo:** Treba je vstrajati, najti nov smisel, smisel nam daje notranjo energijo
 
 Večina motivov je **simbolnih**

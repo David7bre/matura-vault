@@ -6,8 +6,8 @@
 	- Sensualizem: zaljubil v njene lepe oči
 	- Esteticizem: njene lepe oči
 	- Racionalizem: /
-	- individualizem: v ospredju on / njegova čustva
-	- vitalizem: življenska energija izhaja iz ljubezni
+	- Individualizem: v ospredju on / njegova čustva
+	- Vitalizem: življenska energija izhaja iz ljubezni
 
 ###### Vsebina:
 Spominja se srečnega naključja, da jo je spoznal

@@ -6,7 +6,7 @@ Prelomno obdobje evropske zgodovine - je ==filozofsko umetnostno obdobje==
 		- Izobraženi meščani, **univerze**
 		- Le **kulturno idejna smer** (ne umetnost)
 		- Pisali v latinščini
-		- najpomembnejši humanisti:
+		- Najpomembnejši humanisti:
 			- **Erazem Rotterdamski**
 			- **Loenardo de Vinchi**
 - ==***Renesansa***== → **preporod, ponovno odkritje** ([[Antična književnost]])
@@ -15,7 +15,7 @@ Prelomno obdobje evropske zgodovine - je ==filozofsko umetnostno obdobje==
 	- prevladujejo **posvetne** vsebine in motivi uživanja življenja
 	- Pišejo v narodnih jezikih
 	- Razvoj vseh treh literarnih zvrsti:
-		- Lirika (vpliv ==sladko novega sloga==) - [[Francesco Petrarca]]
+		- Lirika (vpliv ==sladkega novega sloga==) - [[Francesco Petrarca]]
 		- Epika
 			- **Ironiziranje srednjeveških romanov** - [[Miguel De Cervantes]]
 			- Prvič se pojavi ==**novela**== - [[Giovani Boccaccio]]

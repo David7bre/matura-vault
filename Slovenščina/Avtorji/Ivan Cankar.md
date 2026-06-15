@@ -53,5 +53,5 @@ Delimo tri obdobja:
 	- Piše le ==**črtice**== in izdaja zbirke
 		- Večina simboličnih in impresionalističnih
 		- Zadnja zbrika črtic - **==Podobe iz sanj==** (vse vojna tematika)
-			- Izšla posthumno
+			- Izšla postkumno
 	

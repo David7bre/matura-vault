@@ -1,6 +1,6 @@
 Najbolj znana [[Ljudsko slovstvo|ljudska pesem]], sodi med pripovedke, ženske balade
 - **Balada:** resna, žalostna vsebina
-- **==Ženska balada:==** stiske žene, matere zaradi težkih razmer ali krute usedo
+- **==Ženska balada:==** stiske žene, matere zaradi težkih razmer ali krute usode
 - ==**19 različic**==
 - Skupen **zgodovinski motiv** povezan z **ugrabljanjem žensk** (dekleta - harem, ženske - dojenje)
 - Razlikujejo se v koncih
@@ -9,7 +9,7 @@ Najbolj znana [[Ljudsko slovstvo|ljudska pesem]], sodi med pripovedke, ženske b
 	- **==Srečen==** - po čudežu se vrne domov
 - Lirsko epska z značilnostmi dramatike
 - **Glavni motiv:** Neuresničljivo hrepenenje po boljšem življenju 
-	- najpogostejši motiv sploh v slovenski literaturi
+	- Najpogostejši motiv sploh v slovenski literaturi
 	- Temu motivu pravimo tudi **==Lepovidovski motiv==**
 	- Mnogokrat upodobljen v slovenski književnosti
 - Prepesnil jo [[France Prešern]]
@@ -32,7 +32,7 @@ Iz **==ene stiske v drugo==** (nesrečen zakon)
 - Stiske jo "reši" **==črni zamorec ==**
 	- "črni" - temne polti, 
 	- "zamorec" - na drugi strani morja (Mavri in Arabci živeči v Španiji)
-Ta sodi ved **==Elegične konce==**
+Ta sodi med **==Elegične konce==**
 
 [[Slovenščina/Slogovna sredstva#Od lepe Vide|Slogovna sredstva]]
 

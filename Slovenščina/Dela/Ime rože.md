@@ -1,4 +1,4 @@
-Takoj po nastanku bil eden **popularnih**, branih in **cenjen pri kritikih**
+Takoj po nastanku bil eden **popularnih**, branih in **cenjen pri kritikih in bralcih**
 - Združil značilnosti **==elitne književnosti==** z **==trivialnimi žanri==**
 Roman lahko beremo na več načinov; **==združuje različne žanre==**:
 1. **Kriminalka / detektivka**: William s pomočnikom Adsonom (Sherlock Holmes in Watson)
