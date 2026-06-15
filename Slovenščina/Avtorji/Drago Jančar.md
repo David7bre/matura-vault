@@ -5,7 +5,7 @@
 - Kasneje je bil svobodni književnik
 - Temna stran meseca - iziode po osamosvojitvi - prikaže stanje po vojni do osamosvojitve
 - Kot književnik piše različne žanre, primarno pa je postmodernist
-- Eden najuspešnejših pisateljev, pa tufi dramatik
+- Eden najuspešnejših pisateljev, pa tudi dramatik
 - Prejel več nagrad (večkrat prejme tudi nagrado Kresnik)
 - To noč sem jo videl - eden najbolj nagrajenih romanov
 - Njegova osrednja tema je nasilna slovenska zgodovina, ampak brez neke poetike
