@@ -9,7 +9,7 @@ Upravljal različne funkcije (ustanovil šolo, začetnik književnosti)
 - ==Preprost jezik in slog==
 
 ==**Konfucijanstvo**== - njegova filozofija ki temelji na tradicionalnih kitajskih vrednotih
-	- morala, vzgoja, družina, družba, država
+- morala, vzgoja, družina, družba, država
 - nauki govorijo o ==odnosih== 
 	- vladar - podložnik
 	- oče - sin
