@@ -29,7 +29,6 @@
 		{"id":"84af6f32d264cd64","type":"file","file":"Slovenščina/Obdobja/Med romantiko in realizmom na Slovenskem.md","x":3200,"y":281,"width":400,"height":180},
 		{"id":"9a2d8687f2798f0d","type":"file","file":"Slovenščina/Avtorji/Johann Wolfgang Goethe.md","x":2130,"y":-151,"width":380,"height":82},
 		{"id":"f6129681973ea3c2","type":"file","file":"Slovenščina/Dela/Majska pesem.md","x":2210,"y":-271,"width":220,"height":50},
-		{"id":"2931eb42b02cf541","type":"file","file":"Slovenščina/Avtorji/Gustav Flaubert.md","x":2590,"y":-151,"width":250,"height":82},
 		{"id":"386512c1ab714807","type":"file","file":"Slovenščina/Avtorji/Fjordov Mihajlivič Dostojevski.md","x":2900,"y":-151,"width":400,"height":82},
 		{"id":"166891eb952d430a","type":"file","file":"Slovenščina/Avtorji/Henrik Ibsen.md","x":3360,"y":-135,"width":205,"height":50},
 		{"id":"76ecc8fe1b870dd4","type":"file","file":"Slovenščina/Dela/Gospa Bovary (Bovarjeva).md","x":2535,"y":-271,"width":361,"height":50},
@@ -60,7 +59,7 @@
 		{"id":"a8f66ee389537a20","type":"file","file":"Slovenščina/Dela/Zgodba o Martinu Lutru.md","x":1492,"y":620,"width":344,"height":53},
 		{"id":"bb66f5c71d62be8b","type":"file","file":"Slovenščina/Avtorji/Primož Trubar.md","x":1555,"y":500,"width":219,"height":50},
 		{"id":"429d0ddf9a2bdfb9","type":"file","file":"Slovenščina/Obdobja/Ljudsko slovstvo.md","x":332,"y":320,"width":400,"height":100},
-		{"id":"503c4af37a26203a","type":"file","file":"Slovenščina/Dela/Od lepe Vide.md","x":432,"y":500,"width":200,"height":50},
+		{"id":"503c4af37a26203a","type":"file","file":"Slovenščina/Dela/Od lepe Vide.md","x":432,"y":500,"width":188,"height":50},
 		{"id":"422a7a1dc5ebd356","type":"file","file":"Slovenščina/Avtorji/Srečko Kosovel.md","x":4760,"y":558,"width":234,"height":50},
 		{"id":"8f796a1e71509a8e","type":"file","file":"Slovenščina/Avtorji/Ivan Pregelj.md","x":5080,"y":558,"width":196,"height":50},
 		{"id":"c34ea0b513ef0c5c","type":"file","file":"Slovenščina/Avtorji/Slavko Grum.md","x":5378,"y":558,"width":222,"height":50},
@@ -81,7 +80,6 @@
 		{"id":"ffa21dba343e2cb5","type":"file","file":"Slovenščina/Avtorji/Gregor Strniša.md","x":6500,"y":730,"width":254,"height":50},
 		{"id":"c2d414394fec866e","type":"file","file":"Slovenščina/Obdobja/Sodobno slovensko pripovedništvo.md","x":6840,"y":570,"width":490,"height":50},
 		{"id":"c31ca594413b26e4","type":"file","file":"Slovenščina/Avtorji/Edvard Kocbek.md","x":6797,"y":730,"width":224,"height":50},
-		{"id":"0a8ea6483fc0c6fb","type":"file","file":"Slovenščina/Avtorji/Boris Pahor.md","x":7060,"y":730,"width":185,"height":50},
 		{"id":"b4633fd14960848a","type":"file","file":"Slovenščina/Dela/Južni otok.md","x":6034,"y":840,"width":180,"height":50},
 		{"id":"efb86a6934146f6e","type":"file","file":"Slovenščina/Dela/Črni deček.md","x":6266,"y":840,"width":200,"height":50},
 		{"id":"c594d7b2a1dd8302","type":"file","file":"Slovenščina/Dela/Večerna pravljica.md","x":6502,"y":840,"width":251,"height":50},
@@ -95,7 +93,9 @@
 		{"id":"5ef31f810e6d97da","type":"file","file":"Slovenščina/Avtorji/Federico Garcia Lorca.md","x":4932,"y":-135,"width":344,"height":50},
 		{"id":"9f8279c03cc63b6e","type":"file","file":"Slovenščina/Avtorji/Franz Kafka.md","x":5392,"y":-135,"width":203,"height":50},
 		{"id":"d4eb8a1698c7252a","type":"file","file":"Slovenščina/Dela/Vitezova pesem.md","x":4980,"y":-271,"width":248,"height":50},
-		{"id":"2fdad16afcfd9bca","type":"file","file":"Slovenščina/Dela/Preobrazba.md","x":5395,"y":-271,"width":198,"height":50}
+		{"id":"2fdad16afcfd9bca","type":"file","file":"Slovenščina/Dela/Preobrazba.md","x":5395,"y":-271,"width":198,"height":50},
+		{"id":"2931eb42b02cf541","type":"file","file":"Slovenščina/Avtorji/Gustav Flaubert.md","x":2590,"y":-151,"width":250,"height":82},
+		{"id":"0a8ea6483fc0c6fb","type":"file","file":"Slovenščina/Avtorji/Boris Pahor.md","x":7060,"y":730,"width":185,"height":50}
 	],
 	"edges":[
 		{"id":"4f9248b1b2edfc9d","fromNode":"e492e6cf092838c0","fromSide":"top","toNode":"af57336399d1bb17","toSide":"bottom"},

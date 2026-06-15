@@ -13,7 +13,7 @@
 	- Trojanska stran:
 		- Priam (kralj), **Hektor** (sin 1), Paris (sin 2), Enej (polbog), Afrodita, Ares
 	- Grška stran:
-		- Agamemnom, **Ahil**, Patroklo, Odisej, Hera, Atena
+		- Agamemnom, **Ahil**, Patrokel, Odisej, Hera, Atena
 
 ##### Odlomek - Hektorjevo slovo (6. spev)
 Hektor se ==poslovi od žene== Andromaha
