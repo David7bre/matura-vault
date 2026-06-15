@@ -38,7 +38,7 @@ Zasnovali matematiko, fiziko, astronomijo, zgodovino in postavili **temelje knji
 - ##### Grška epika v verzih
 	Začetki v arhaičnem obdobju (**[[Homer]]**), prej peli ljudske **pesnitve o velikih junakih**
 	- Oba epa imata mitološko snov - **==trojanska vojna==**
-	- Najstarejša in **==nepresežena epa==** ([[Iliada]] in Odiseja)
+	- najstarejša in **==nepresežena epa==** ([[Iliada]] in Odiseja)
 		- Oba **24 spevov**
 		- Zgrajena iz **heksametra** (6 daktilov)
 		- Pripovedujeta o junakih in skupnosti
@@ -47,7 +47,7 @@ Zasnovali matematiko, fiziko, astronomijo, zgodovino in postavili **temelje knji
 		- V obeh začetek pripovedi sredi dogajanja (==In media res==)
 - ##### Grška dramatika
 	- Začetniki evropske dramatike in gledališča nasploh
-	- Razvila iz verskih obredov ==**Dioniu**== (bog veseljačenja, vina, grozdja)
+	- Razvila iz virskih obredov ==**Dionizu**== (bog veseljačenja, vina, grozdja)
 	- **Razvoj:** 
 		- **Tespis** (prvi solist) - ustvaril **monolog**
 		- **Ajshil** - dodal drugega solista, omogočil **dialog**
@@ -111,7 +111,7 @@ Najpomembnejši avtorji:
 #### Književne zvrsti
 - ##### Rimska lirika
 	- Do zlatega veka je niso cenili
-	- Po letu 60. pr. kr. se oblikuje skupina mladih pesnikov - ==**neoteriki**==
+	- po letu 60. pr. kr. se oblikuje skupina mladih pesnikov - ==**neoteriki**==
 		- zgledovali po grški liriki iz otoka Lesbos (Sapfo, Anakreon)
 	- ==**Presegli grke, izpovedovali resnično ljubezen le do ene same ženske**==
 	- Najpomembnejši: *==**Gaj Valerij Katulj**==*

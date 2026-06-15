@@ -1,4 +1,4 @@
-*==Prvi slovensik zgodovinski roma== - začetek nedokončane trilogije*
+*==Prvi slovensik zgodovinski roman== - začetek nedokončane trilogije*
 - Nastal na podlagi najdenih zapisov in kronike na posestvu Visoko in na podlagi Škofjeloškega arhiva
 - ==**Snov** - zgodovinska==, *sega v čas po 30 letni vonji*
 - Roman je ==kronološki== - pripoveduje o pomembnih dogodkih v kronnološkem zaporedju
